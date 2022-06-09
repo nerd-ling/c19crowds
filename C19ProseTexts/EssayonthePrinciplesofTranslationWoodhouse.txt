@@ -1,0 +1,1671 @@
+Essay on the Principles of Translation (1791)
+Author: Woodhouselee, Alexander Fraser Tytler.
+Publication info: Essay On the Principles Of Translation . ix, 260 p. Edinburgh: Printed for T. Cadell; and W. Creech, 1791.
+
+Essay on the Principles of Translation
+[Page ]
+Nec converti ut Interpres, sed ut Orator, sententiis iisdem et earum formis tanquam figuris, verbis ad noslram consuctudinem aptis. Cic. de opt. gen. Orat. 14.
+[Page ]
+INTRODUCTION. There is perhaps no department of literature which has been less the object of cultivation than the Art of Translating . Even among the ancients, who seem to have had a very just idea of its importance, and who have accordingly ranked it among the most useful branches
+[Page 2]
+of literary education, we meet with no attempt to unfold the principles of this art, or to reduce it to rules. In the works of Quinctilian, of Cicero, and of the Younger Pliny, we find many passages which prove that these authors had made translation their peculiar study; and, conscious themselves of its utility, they have strongly recommended the practice of it, as essential towards the formation both of a good writer and an accomplished orator 1 . But it is much
+[Page 3]
+to be regretted, that they who were so eminently well qualified to furnish instruction in the art itself, have contributed little more to its advancement than by some general recommendations of its importance. If indeed time had spared to us any complete or finished specimens of translation from the hand of those great masters, it had been some compensation for the want of actual precepts, to have been able to have deduced them ourselves from those exquisite models. But of ancient translations the fragments that remain are so inconsiderable, and so much mutilated, that we
+[Page 4]
+can scarcely derive from them any advantage 2 .
+To the moderns the art of translation is of greater importance than it was to the ancients, in the same proportion that the great mass of ancient and of modern literature, accumulated up to the present times, bears to the general stock of learning in the most enlightened periods of antiquity. But it is a singular consideration, that under the daily experience of the advantages of good translations, in opening to us all the stores of ancient knowledge, and creating a free intercourse of science and of literature between all modern nations, there should
+[Page 5]
+have been so little done towards the improvement of the art itself, by investigating its laws, or unfolding its principles. Unless a very short essay, published by M. D'Alembert, in his Mélanges de Litterature, d'Histoire, &c. as introductory to his translations of some pieces of Tacitus, and a few reflections of the Abbé Batteux, in his Principes de la Litterature , I know of nothing that has been written upon the subject. The observations of M. D'Alembert, though extremely judicious, are too general to be considered as rules or even principles of the art; and the precepts of the Abbé Batteux are chiefly of a grammatical nature, and seem to have for their sole object the ascertainment of the analogy that one language bears to another, or the pointing out of those circumstances of
+[Page 6]
+construction and arrangement in which languages either agree with, or differ from each other 3 .
+While such has been our ignorance of the principles of this art, it is not at all wonderful, that amidst the numberless
+[Page 7]
+translations which every day appear, both of the works of the ancients and moderns, there should be so few that are possessed of real merit. The utility of translations is universally felt, and therefore there is a continual demand for them. But this very circumstance has thrown the practice of translation into mean and mercenary hands. It is a profession which, it is generally believed, may be exercised with a very small portion of genius or abilities. “It seems to me,” says Dryden, “that the true reason why we have so few versions that are tolerable, is, because there are so few who have all the talents requisite for translation, and that there is so little praise and small encouragement for so considerable a part of learning.” Pref. to Ovid's Epistles.
+[Page 8]
+It must be owned, at the same time, that there have been , and that there are men of genius among the moderns who have vindicated the dignity of this art so ill-appretiated, and who have furnished us with excellent translations, both of the ancient classics, and of the productions of foreign writers of our own and of former ages. These works lay open a great field of useful criticism; and from them it is certainly possible to draw the principles of that art which has never yet been methodized, and to establish its rules and precepts. Towards this purpose, even the worst translations would have their utility, as in such a critical exercise, it would be equally necessary to illustrate defects as to exemplify perfections.
+[Page 9]
+An attempt of this kind forms the subject of the following Essay, in which the author solicits indulgence, both for the imperfections of his treatise, and perhaps for some errors of opinion. His apology for the first, is, that he does not pretend to exhaust the subject, or to treat it in all its amplitude, but only to point out the general principles of the art; and for the last, that in matters where the ultimate appeal is to Taste, it is almost impossible to be secure of the solidity of our opinions, when the criterion of their truth is so very uncertain.
+[Page 10]
+CHAPTER I.
+Description of a good Translation.---General Rules flowing from that Description.
+If it were possible accurately to define, or, perhaps more properly, to describe what is meant by a good Translation , it is evident that a considerable progress would be made towards establishing the Rules of the Art ; for these Rules would flow naturally from that
+[Page 11]
+definition or description. But there is no subject of criticism where there has been so much difference of opinion. If the genius and character of all languages were the same, it would be an easy task to translate from one into another; nor would any thing more be requisite on the part of the translator, than fidelity and attention. But as the genius and character of languages is confessedly very different, it has hence become a common opinion, that it is the duty of a translator to attend only to the sense and spirit of his original, to make himself perfectly master of his author's ideas, and to communicate them in those expressions which he judges to be best suited to convey them. It has, on the other hand, been maintained, that, in order to constitute a perfect translation,
+[Page 12]
+it is not only requisite that the ideas and sentiments of the original author should be conveyed, but likewise his style and manner of writing, which, it is supposed, cannot be done, without a strict attention to the arrangement of his sentences, and even to their order and construction 4 According to the former idea of translation, it is allowable to improve and to embellish; according to the latter, it is necessary to preserve even blemishes and defects; and to these must likewise be superadded the harshness that must attend every copy in which the artist scrupulously studies to imitate the minutest lines or traces of his original.
+As these two opinions form opposite extremes, it is not improbable that the
+[Page 13]
+point of perfection should be found between the two. I would therefore describe a good translation to be, That, in which the merit of the original work is so completely transfused into another language, as to be as distinctly apprehended, and as strongly felt, by a native of the country to which that language belongs, as it is by those who speak the language of the original work.
+Now, supposing this description to be a just one, which I think it is, let us examine what are the laws of translation which may be deduced from it.
+It will follow,
+[Page 14]
+I. That the Translation should give a complete transcript of the ideas of the original work.
+II. That the style and manner of writing should be of the same character with that of the original.
+III. That the Translation should have all the ease of original composition.
+Under each of these general laws of translation, are comprehended a variety of subordinate precepts, which I shall notice in their order, and which, as well as the general laws, I shall endeavour to prove, and to illustrate by examples.
+[Page 15]
+CHAP. II.
+First general rule—A Translation should give a complete transcript of the ideas of the original work.—Knowledge of the language of the original, and acquaintance with the subject.—Examples of imperfect transfusion of the sense of the original. —What ought to be the conduct of a Translator where the sense is ambiguous.
+In order that a translator may be enabled to give a complete transcript of the ideas of the original work, it is indispensably necessary, that he should have
+[Page 16]
+a perfect knowledge of the language of the original, and a competent acquaintance with the subject of which it treats. If he is deficient in either of these requisites, he can never be certain of thoroughly comprehending the sense of his author. M. Folard is allowed to have been a great master of the art of war. He undertook to translate Polybius, and to give a commentary illustrating the ancient Tactic, and the practice of the Greeks and Romans, in the attack and defence of fortified places. In this commentary, he endeavours to shew, from the words of his author, and of other ancient writers, that the Greek and Roman engineers knew and practised almost every operation known to the moderns; and that in particular, the mode of approach by parallels and trenches, was perfectly familiar
+[Page 17]
+to them, and in continual use. Unfortunately M. Folard had but a very slender knowledge of the Greek language, and was obliged to study his author through the medium of a Latin translation, executed by a Jesuit who was entirely ignorant of the art of war. M. Guischardt, a great military genius, and a thorough master of the Greek language, has shewn, that the work of Folard contains many capital misrepresentations of the sense of his author, in his account of the most important battles and sieges, and has demonstrated, that the complicated system formed by this writer of the ancient art of war, has no support from any of the ancient authors fairly interpreted. 5
+[Page 18]
+But a translator, thoroughly master of the language, and competently acquainted with the subject, may yet fail to give a complete transcript of the ideas of his original author.
+M. D'Alembert has favoured the public with some admirable translations from Tacitus; and it must be acknowledged, that he possessed every qualification requisite for the task he undertook. If, in the course of the following observations, I may have occasion to criticise any part of his writings, or those of other authors of equal celebrity, I avail myself of the just sentiment of M. Duclos, “On peut toujours relever les défauts des grands hommes, et peut-être sont ils les seuls qui en soient dignes, et dont
+[Page 19]
+la critique soit utile.” ( Duclos, Pref. de l' Hist. de Louis XI. )
+Tacitus , in describing the conduct of Piso upon the death of Germanicus, says: Pisonem interim apud Coum insulam nuncius adsequitur, excessisse Germanicum ; Tacit. An. lib. 2. c. 75. This passage is thus translated by M. D'Alembert, “Pison apprend, dans l'isle de Cos, la mort de Germanicus.” In translating this passage, it is evident that M. D'Alembert has not given the complete sense of the original. The sense of Tacitus is, that Piso was overtaken on his voyage homeward, at the Isle of Cos, by a messenger, who informed him that Germanicus was dead. According to the French translator, we understand simply, that when Piso arrived at the Isle of Cos, he was informed
+[Page 20]
+that Germanicus was dead. We do not learn from this, that a messenger had followed him on his voyage to bring him this intelligence. The fact was, that Piso purposely lingered on his voyage homeward, expecting this very messenger who here overtook him. But, by M. D'Alembert's version it might be understood, that Germanicus had died in the island of Cos, and that Piso was informed of his death by the islanders immediately on his arrival.
+After Piso had received intelligence of the death of Germanicus, he deliberated whether to proceed on his voyage to Rome, or to return immediately to Syria, and there put himself at the head of the legions. His son advised the former measure; but his friend Domitius
+[Page 21]
+Celer argued warmly for his return to the province, and urged, that all difficulties would give way to him, if he had once the command of the army, and had increased his force by new levies. At si teneat exercitum, augeat vires, multa quæ provideri non possunt in melius casura , An. 1. 2. c. 77. This M. D'Alembert has translated, “Mais que s'il savoit se rendre redoutable à la tête des troupes, le hazard ameneroit des circonstances heureuses et imprévues.” In the original passage, Domitius advises Piso to adopt two distinct measures; the first, to obtain the command of the army, and the second, to increase his force by new levies. These two distinct measures are confounded together by the translator, nor is the sense of either of them accurately given; for from the expression,
+[Page 22]
+“se rendre redoubtable à la tête des troupes,” we may understand that Piso already had the command of the troops, and that all that was requisite, was to render himself formidable in that station, which he might do in various other ways than by increasing the levies.
+Tacitus , speaking of the means by which Augustus obtained an absolute ascendency over all ranks in the state, says, Cùm cæteri nobilium, quanto quis servitio promptior, opibus et honoribus extollerentur ; An. 1. I. c. 2. This D'Alembert has translated, “Le reste des nobles trouvoit dans les richesses et dans les honneurs la récompense de l'esclavage.” Here the translator has but half expressed the meaning of his author, which is, that
+[Page 23]
+the rest of the nobility were exalted to riches and honours, in proportion as Augustus found in them an aptitude and disposition to servitude.”
+Cicero , in a letter to the Proconsul Philippus, says, Quod si Romæ te vidissem, coramque gratias egissem, quod tibi L. Egnatius familiarissimus meus absens, L. Oppius præsens curœ fuisset. This passage is thus translated by Mr Melmoth: “If I were in Rome, I should have waited upon you for this purpose in person, and in order likewise to make my acknowledgements to you for your favours to my friends Egnatius and Oppius.” Here the sense is not completely rendered, as there is an omission of the meaning of the words absens and præsens.
+[Page 24]
+Where the sense of an author is doubtful, and where more than one meaning can be given to the same passage or expression, (which, by the way, is always a defect in composition), the translator is called upon to exercise his judgement, and to select that meaning which is most consonant to the train of thought in the whole passage, or to the author's usual mode of thinking, and of expressing himself. To imitate the obscurity or ambiguity of the original is a fault; and it is still a greater, to give more than one meaning, as D'Alembert has done in the beginning of the Preface of Tacitus. The original runs thus: Urbem Romam a principio Reges habuere. Libertatem et consulatum L. Brutus instituit. Dictaturæ ad tempus sumebantur: neque Decemviralis potestas ultra biennium, neque
+[Page 25]
+Tribunorum militum consulare jus diu valuit . The ambiguous sentence is, Dictaturœ ad tempus sumebantur; which may signify either “Dictators were chosen for a limited time,” or “Dictators were chosen on particular occasions or emergencies.” D'Alembert saw this ambiguity; but how did he remove the difficulty? Not by exercising his judgement in determining between the two different meanings, but by giving them both in his translation. “On créoit au besoin des dictateurs passagers.” Now, this double sense it was impossible that Tacitus should ever have intended to convey by the words ad tempus : and between the two meanings of which the words are susceptible, a very little critical judgement was requisite to decide. I know not that ad tempus is ever used in the sense of “for
+[Page 26]
+“the occasion, or emergency.” If this had been the author's meaning, he would probably have used either the words ad occasionem , or pro re nata . But even allowing the phrase to be susceptible of this meaning, 6 , it is not the meaning which Tacitus chose to give it in this passage. That the author meant that the Dictator was created for a limited time, is, I think, evident from the sentence immediately following, which is connected by the copulative neque with the preceding: Dictatura ad tempus sumebantur: neque Decemviralis potestas ultra biennium valuit : “The
+[Page 27]
+office of Dictator was instituted for a limited time: nor did the power of the Decemvirs subsist beyond two years.”
+M. D'Alembert's translation of the concluding sentence of this chapter is censurable on the same account. Tacitus says, Sed veteris populi Romani prospera vel adversa, claris scriptoribus memorata sunt; temporibusque Augusti dicendis non defuere decora ingenia, donec gliscente adulatione deterrerentur. Tiberii, Caiique, et Claudii, ac Neronis res, florentibus ipsis, ob metum falsæ: postquam occiderant, recentibus odiis compositæ sunt. Inde consilium mibi pauca de Augusto, et extrema tradere: mox Tiberii principatum, et cetera, sine ira et studio, quorum causas procul habeo . Thus translated by D'Alembert: “Des auteurs “illustres ont fait connoitre la gloire et
+[Page 28]
+les malheurs. de l'ancienne république; l'histoire même d'Auguste a été écrite par de grands génies, jusqu'aux tems ou la necessité de flatter les condamna au silence. La crainte ménagea tant qu'ils vécurent, Tibere, Caius, Claude, et Néron; des qu'ils ne furent plus, la haine toute récentè les déchira. J'écrirai donc en peu de mots la fin du regne d'Auguste, puis celui de Tibere, et les suivans; sans fiel et sans bassesse: mon caractere m'en éloigne, et les tems m'en dispensent.” In the last part of this passage, the translator has given two different meanings to the same clause, sine ira et studio, quorum causas procul habeo , to which the author certainly meant to annex only one meaning; and that, as I think, a different one from either of those expressed by the translator.
+[Page 29]
+To be clearly understood, I must give my own version of the whole passage. The history of the ancient republic of Rome, both in its prosperous and in its adverse days, has been recorded by eminent authors: Even the reign of Augustus has been happily delineated, down to those times, when the prevailing spirit of adulation put to silence every ingenuous writer. The annals of Tiberius, of Caligula, of Claudius, and of Nero, written while they were alive, were falsified from terror; as were those histories composed after their death, from hatred to their recent memories. For this reason, I have resolved to attempt a short delineation of the latter part of the reign of Augustus; and afterwards that of Tiberius, and of the succeeding princes;
+[Page 30]
+conscious of perfect impartiality, as, from the remoteness of the events, I have no motive, either of odium or adulation.” In the last clause of this sentence, I believe I have given the true version of sine ira et studio, quorum causas procul habeo : But if this be the true meaning of the author, M. D'Alembert has given two different meanings to the same sentence, and neither of them the true one: sans fiel et sans bassesse: mon caractere m'en éloigne, et les tems m'en dispensent.” According to the French translator, the historian pays a compliment first to his own character, and 2dly, to the character of the times; both of which he makes the pledges of his impartiality: but it is perfectly clear that Tacitus neither meant the one compliment nor the other; but intended simply to say, that the remoteness
+[Page 31]
+moteness of the events which he proposed to record, precluded every motive either of unfavourable prejudice or of adulation.
+[Page 32]
+CHAP. III.
+Whether it is allowable for a translator to add to or retrench the ideas of the original —Examples of the use and abuse of this liberty.
+If it is necessary that a translator should give a complete transcript of the ideas of the original work, it becomes a question, whether it is allowable in any case to add to the ideas of the original what may appear to give greater force or illustration; or to take from them what may seem to weaken them from redundancy.
+[Page 33]
+To give a general answer to this question, I would say, that this liberty may be used, but with the greatest caution. It must be further observed, that the superadded idea shall have the most necessary connection with the original thought, and actually increase its force. And, on the other hand, that whenever an idea is cut off by the translator, it must be only such as is an accessory, and not a principal in the clause or sentence. It must likewise be confessedly redundant, so that its retrenchment shall not impair or weaken the original thought. Under these limitations, a translator may exercise his judgement, and assume to himself, in so far, the character of an original writer.
+IT will be allowed, that in the following
+[Page 34]
+instance the translator, the elegant Vincent Bourne , has added a very beautiful idea, which, while it has a most natural connection with the original thought, greatly heightens its energy and tenderness. The two following stanzas are a part of the fine ballad of Colin and Lucy , by Tickell.
+To-morrow in the church to wed,
+   Impatient both prepare;
+But know, fond maid, and know, false man,
+   That Lucy will be there.
+There bear my corse, ye comrades, bear,
+   The bridegroom blithe to meet,
+He in his wedding-trim so gay,
+   I in my winding-sheet.
+Thus translated by Bourne:
+[Page 35]
+Jungere cras dextræ dextram properatis uterque,
+   Et tardè interea creditis ire diem.
+Credula quin virgo, juvenis quin perfide, uterque
+   Scite, quod et pacti Lucia testis erit.
+Exangue, oh! illuc, comites, deferte cadaver,
+   Qua semel, oh! iterum congrediamur, ait;
+Vestibus ornatus sponsalibus ille, caputque
+   Ipsa sepulchrali vincta, pedesque stolâ.
+In this translation, which is altogether excellent, it is evident, that there is one most beautiful idea superadded by Bourne, in the line Qua semel, oh ! &c.; which wonderfully improves upon the original thought. In the original, the speaker, deeply impressed with the sense of her wrongs, has no other idea than to overwhelm her perjured lover with remorse at the moment of his approaching
+[Page 36]
+nuptials. In the translation, amidst this prevalent idea, the speaker all at once gives way to an involuntary burst of tenderness and affection, “Oh, let us “meet once more, and for the last time!” Semel, oh! iterum congrediamur, ait. —It was only a man of exquisite feeling, who was capable of thus improving on so fine an original.
+Cicero writes thus to Trebatius, Ep. ad fam. lib. 7. ep. 17. Tanquam enim syngrapham ad Imperatorem, non epistolam attulisses, sic pecunia ablatâ domum redire properabas: nec tibi in mentem veniebat, cos ipsos qui cum syngraphis venissent Alexandriam, nullum adhuc nummum auferre potuisse . The passage is thus translated by Melmoth, b. 2. l. 12. “One would “have imagined indeed, you had carried
+[Page 37]
+a bill of exchange upon Cæsar, instead of a letter of recommendation: As you seemed to think you had nothing more to do, than to receive your money, and to hasten home again. But money, my friend, is not so easily acquired; and I could name some of our acquaintance, who have been obliged to travel as far as Alexandria in pursuit of it, without having yet been able to obtain even their just demands.” The expressions “money, my friend, is not so easily acquired,” and “I could name some of our acquaintance,” are not to be found in the original; but they have an obvious connection with the ideas of the original: they increase their force, while, at the same time, they give ease and spirit to the whole passage.
+[Page 38]
+I question much if a licence so unbounded as the following is justifiable, on the principle of giving either ease or spirit to the original.
+In Lucian's Dialogue Timon, Gnathonides, after being beaten by Timon, says to him, ΑΕι φιλοσκώ ι μμων συ γΕ. αλλα ρου το συμροσιον; ὡς καινον τι σοι ἀσμα των νΕοδιδακτων διθυραμβων ἥκω κομιζων.
+“You were always fond of a joke— but where is the banquet? for I have brought you a new dithyrambic song, which I have lately learned.”
+In Dryden's Lucian, “translated by several eminent hands,” this passage
+[Page 39]
+is thus translated; “Ah! Lord Sir, I see you keep up your old merry humour still; you love dearly to rally and break a jest. Well, but have you got a noble supper for us, and plenty of delicious inspiring claret? Hark ye, Timon, I've got a virgin-song for ye, just new composed, and smells of the gamut: 'Twill make your heart dance within you, old boy. A very pretty she-player, I vow to Gad, that I have an interest in, taught it me this morning.”
+There is both ease and spirit in this translation; but the licence which the translator has assumed, of superadding to the ideas of the original, is beyond all bounds.
+[Page 40]
+An equal degree of judgement is requisite when the translator assumes the liberty of retrenching the ideas of the original.
+After the fatal horse had been admitted within the walls of Troy, Virgil thus describes the coming on of that night which was to witness the destruction of the city:
+Vertitur interea cœlu, et ruit oceano nox,
+Involvens umbrâ magnâ terramque polumque,
+Myrmidonumque dolos.
+The principal effect attributed to the night in this description, and certainly the most interesting, is its concealment of the treachery of the Greeks. Add to this, the beauty which the picture acquires
+[Page 41]
+from this association of natural with moral effects. How inexcusable then must Mr Dryden appear, who, in his translation, has suppressed the Myrmidonumque dolos altogether.
+Mean time the rapid heav'ns roll'd down the light,
+And on the shaded ocean rush'd the night:
+Our men secure, &c.
+Ogilby , with less of the spirit of poetry, has done more justice to the original:
+Meanwhile night rose from sea, whose spreading shade
+Hides heav'n and earth, and plots the Grecians laid.
+Mr Pope, in his translation of the Iliad, has, in the parting scene between
+[Page 42]
+Hector and Andromache (vi. 466.) omitted a particular respecting the dress of the nurse, which he thought an impropriety in the picture. Homer says,
+Αψ δ' ὁ ραϊς ρρος κολρον ἐϋζωνοιο τιθηνης
+Εκλινθη ἰαχων
+“The boy crying, threw himself back into the arms of his nurse, whose waist was elegantly girt.” Mr Pope, who has suppressed the epithet descriptive of the waist, has incurred on that account the censure of Mr Melmoth, who says, he has not touched the picture with that delicacy of pencil which graces the original, as he has entirely lost the beauty of one of the figures.—Though the hero and his son were designed to draw our principal attention, Homer
+[Page 43]
+intended likewise that we should cast a glance towards the nurse.” Fitzosborne's Letters, l. 43. If this was Homer's intention, he has, in my opinion, shewn less good taste in this instance, than his translator, who has, I think, with much propriety, left out the compliment to the nurse's waist altogether. And this liberty of the translator was perfectly allowable; for Homer's epithets are often nothing more than mere expletives, or additional designations of his persons. They are always, it is true, significant of some principal attribute of the person; but they are often applied by the poet in circumstances where the mention of that attribute is quite preposterous. It would shew very little judgement in a translator, who should honour Patroclus with the epithet of godlike ,
+[Page 44]
+while he is blowing the fire to roast an ox; or bestow on Agamemnon the designation of King of many nations , while he is helping Ajax to a large piece of the chine.
+It were to be wished that Mr Melmoth, who is certainly one of the best of the English translators, had always been equally scrupulous in retrenching the ideas of his author. Cicero thus superscribes one of his letters: M. T. C. Terentiæ, et Pater suavissimæ filiæ Tulliolæ, Ciccro matri et sorori S. D. (Ep. Fam. 1. I4. ep. I8.) And another in this manner: Tullius Terentiæ, et Pater Tulliolæ, duabus animis suis, et Cicero Matri optimæ, suavissimæ sorori. (Lib. 14. ep. 14.) Why are these addresses entirely sunk in the translation, and a naked title poorly substituted
+[Page 45]
+for them, “To Terentia and Tullia,” and “To the same?” The addresses to these letters give them their highest value, as they mark the warmth of the author's heart, and the strength of his conjugal and paternal affections.
+In one of Pliny's Epistles, speaking of Regulus, he says, Ut ipse mihi dixerit quum consuleret, quam citò sestertium sexcenties impleturus esset, invenisse se exta duplicata, quibus portendi millies et ducenties habiturum , (Plin. Ep. 1. 2. ep. 20.) Thus translated by Melmoth, “That he once told me, upon consulting the omens, to know how soon he should be worth sixty millions of sesterces, he found them so favourable to him as to portend that he should possess double that sum.” Here a material part of the original idea
+[Page 46]
+is omitted; no less than that very circumstance upon which the omen turned, viz. that the entrails of the victim were double.
+Analogous to this liberty of adding to or retrenching from the ideas of the original, is the liberty which a translator may take of correcting what appears to him a careless or inaccurate expression of the original, where that inaccuracy seems materially to affect the sense. Tacitus says, when Tiberius was entreated to take upon him the government of the empire, Ille variè disserebat, de magnitudine imperii, suâ modestiâ . An. 1. I. Here the word modestia is improperly applied. The author could not mean to say, that Tiberius discoursed to the people about his own modesty. He wished that his
+[Page 47]
+discourse should seem to proceed from modesty; but he did not talk to them about his modesty. D'Alembert saw this impropriety, and he has therefore well translated the passage: “Il répondit par des discours généraux sur son peu de talent, et sur la grandeur de l'empire.”
+[Page 48]
+CHAP. IV.
+Of the freedom allowed in Poetical Translation. —Progress of Poetical translation in England.—B. Jonson, Holiday, Sandys, Fanshaw, Dryden.—Roscommon's Essay on Translated Verse.—Pope's Homer.
+The liberty of adding or retrenching is more peculiarly allowable in poetical than in prose translations. “I conceive it,” says Sir John Denham, “a vulgar error in translating Poets, to affect being fidus interpres . Let that care
+[Page 49]
+be with them who deal in matters of fact or matters of faith; but whosoever aims at it in poetry, as he attempts what is not required, so shall he never perform what he attempts; for it is not his business alone to translate language into language, but poesie into poesie; and poesie is of so subtle a spirit, that in pouring out of one language into another, it will all evaporate; and if a new spirit is not added in the transfusion, there will remain nothing but a caput mortuum.” Denham's Preface to the 2d book of Virgil's Æneid.
+In poetical translation, the English writers of the 16th, and the greatest part of the 17th century, seem to have had no other care than (in Denham's phrase) to
+[Page 50]
+translate language into language, and to have placed their whole merit in presenting a literal and servile transcript of their original.
+Ben Jonson , in his translation of Horace's Art of Poétry, has paid no attention to the judicious precept of the very poem he was translating.
+Nec verbum verbo curabis reddere, fidus Interpres.
+Witness the following specimens, which will strongly illustrate Denham's judicious observations.
+—Mortalia facta peribunt,
+Nedum sermonum stet honos et gratia vivax.
+Multa renascentur quæ jam cecidere, cadentque
+Quæ nunc sunt in honore vocabula, si volet usus,
+Quem penes arbitrium est et vis et norma loquendi. De Art. Poet.
+[Page 51]
+— —All mortal deeds
+Shall perish; so far off it is the state
+Or grace of speech should hope a lasting date.
+Much phrase that now is dead shall be reviv'd,
+And much shall die that now is nobly liv'd,
+If custom please, at whose disposing will
+The power and rule of speaking resteth still. B. Jonson.
+Interdum tamen et vocem Comœdia tollit,
+Iratusque Chremes tumido delitigat ore,
+Et Tragicus plerumque dolet sermone pedestri.
+Telephus et Peleus, cùm pauper et exul uterque,
+Projicit ampullas et sesquipedalia verba,
+Si curat cor spectantis tetigisse querela. Ibid.
+Yet sometime doth the Comedy excite,
+Her voice, and angry Chremes chafes outright,
+With swelling throat, and oft the tragic wight
+Complains in humble phrase. Both Telephus
+And Peleus if they seek to heart-strike us
+That are spectators, with their misery,
+When they are poor and banish'd, must throw by
+Their bombard-phrase, and foot-and-half-foot words. B. Jonson.
+[Page 52]
+Of the same character for rigid fidelity, is the translation of Juvenal by Holiday, a writer of great learning, and even of critical acuteness, as the excellent commentary on his author fully shews.
+Omnibus in terris quæ sunt a Gadibus usque
+Auroram et Gangem, pauci dignoscere possunt
+Vera bona, atque illis multum diversa, remotâ
+Erroris nebulâ. Quid enim ratione timemus,
+Aut cupimus? quid tam dextro pede concipis, ut te
+Conatûs non pœniteat, votique peracti.
+Evertêre domos totas optantibus ipsis
+Dii faciles. Juv. Sat. 10.
+In all the world which between Cadiz lies
+And eastern Ganges, few there are so wise
+To know true good from feign'd, without all mist
+Of Error. For by Reason's rule what is't
+We fear or wish? What is't we e'er begun
+With foot so right, but we dislik'd it done?
+Whole houses th' easie gods have overthrown
+At their fond prayers that did the houses own. Holiday's Juvenal.
+[Page 53]
+There were, however, even in that age, some writers who manifested a better taste in poetical translation. May, in his translation of Lucan, and Sandys, in his Metamorphoses of Ovid, while they strictly adhered to the sense of their authors, and generally rendered line for line, have given to their versions both an ease of expression and a harmony of numbers, which approach them very near to original composition. The reason is, they have disdained to confine themselves to a literal interpretation; but have every where adapted their expression to the idiom of the language in which they wrote.
+There's no Alcyone! none, none! she died
+Together with her Ceÿx. Silent be
+All sounds of comfort. These, these eyes did see
+My shipwrack't Lord. I knew him; and my hands
+[Page 54]
+Thrust forth t'have held him: but no mortal bands
+Could force his stay. A ghost! yet manifest,
+My husband's ghost: which, Oh, but ill express'd
+His forme and beautie, late divinely rare!
+Now pale and naked, with yet dropping haire:
+Here stood the miserable! in this place:
+Here, here! (and sought his aerie steps to trace).
+Sandy's Ovid , b. II.
+Nulla est Alcyone, nulla est, ait: occidit una
+Cum Ceyce suo; solantia tollite verba:
+Nausragus interiit; vidi agnovique, manusque
+Ad discedentem, cupiens retinere, tetendi.
+Umbra fuit: sed et umbra tamen manifesta virique
+Vera mei: non ille quidem, si quæris, habebat
+Assuetos vultus, nec quo prius ore nitebat.
+Pallentem, nudumque, et adhuc humente capillo,
+Infelix vidi: stetit hoc miserabilis ipso,
+Ecce loco: (et quærit vestigia siqua supersint). Metam. l. II.
+In the above example, the solantia tollite verba is translated with peculiar felicity,
+[Page 55]
+“Silent be all sounds of comfort;” as are these words, Nec quo prius ore nitebat , “Which, oh! but ill express'd his forme and beautie.” “No mortal bands could force his stay,” has no strictly corresponding sentiment in the original. It is a happy amplification; which shews that Sandys knew what freedom was allowed to a poetical translator, and could avail himself of it.
+From the time of Sandys; who published his translation of the Metamorphoses of Ovid in I626, there does not appear to have been much improvement in the art of translating poetry till the age of Dryden: for though Sir John Denham has thought proper to pay a high compliment to Fanshaw on his translation of the Pastor Fido , terming him
+[Page 56]
+the inventor of “a new and nobler way” of translation, we find nothing in that performance which should intitle it to more praise than the Metamorphoses by Sandys and the Pharsalia by May. 7
+[Page 57]
+But it was to Dryden that poetical translation owed a complete emancipation from her fetters; and exulting in her new liberty, the danger now was, that she should run into the extreme of licentiousness. The followers of Dryden saw
+[Page 58]
+nothing so much to be emulated in his translations as the ease of his poetry: Fidelity was but a secondary object, and translation for a while was considered as synonymous with paraphrase. A judicious spirit of criticism was now wanting, to prescribe bounds to this increasing licence, and to determine to what precise degree a poetical translator might assume to himself the character of an original writer. In that design, Roscommon wrote his Essay on Translated Verse ; in which, in general, he has shewn great critical judgement; but proceeding, as all reformers, with rigour, he has, amidst many excellent precepts on the subject, laid down one rule, which every true poet (and such only should attempt to translate a poet) must consider as a very prejudicial restraint. After judiciously recommending
+[Page 59]
+to the translator, first to possess himself of the sense and meaning of his author, and then to imitate his manner and style, he thús prescribes a general rule,
+Your author always will the best advise;
+Fall when he falls, and when he rises, rise.
+Far from adopting the former part of this maxim, I conceive it to be the duty of a poetical translator, never to suffer his original to fall. He must maintain with him a perpetual contest of genius; he must attend him in his highest flights, and soar, if he can, beyond him: and when he perceives, at any time, a diminution of his powers, when he sees a drooping wing, he must raise him on his own pinions. Homer has been judged by the best critics to
+[Page 60]
+fall at times beneath himself, and to offend, by introducing low images and puerile allusions. Yet how admirably is this defect veiled over, or altogether removed, by his translator Pope. In the beginning of the 8th book of the Iliad, Jupiter is introduced in great majesty, calling a council of the gods, and giving them a solemn charge to observe a strict neutrality between the Greeks and Trojans:
+Ηὼς μΕν κροκόρΕρλος έκιδνατο ρâσαν ἐ' αἴαν
+ΖΕυς δΕ θΕω̂ν ἄγορην ροιήσατο τΕρρικέραυνος,
+Ἀκροτάτη κορυφη ρολυδΕιραδος Οὐλυμροιο [illeg.]
+Αὐτὸς δέ σφ' άγόρΕυΕ, θΕοι δ' ἅμα ράντΕς ἄκουον.
+“ Aurora with her saffron robe had spread returning light upon the world, when Jove delighting-in-thunder summoned a council of the gods
+[Page 61]
+upon the top of the aspiring Olympus; and while he thus harangued, all the immortals listened with deep attention.” This is a very solemn opening; but the expectation of the reader is miserably disappointed by the harangue itself, of which I shall give a literal translation.
+Κέκλυτέ μΕυ, ράντης τΕ θΕοὶ, ρâσαί τΕ θέαιναι,
+Ὄφρ' ἔιρω, τά μΕ θυμὸς ἐνὶ στήθΕσσι κΕλΕύΕι.
+ΜήτΕ τις οὖν θήλΕια θΕὸς τόγΕ, μήτΕ τις ἄρσην
+ΡΕιράτω διαχέρσαι ἐμὸν ἔρος. ἀλλ' ἅμα ράντΕς
+ΑἰνΕîτ', ὄφρα τάχιστα τΕλΕυτήσω τάδΕ ἔργα.
+Ὃν δ' ἂν ἐγὼν ἀράνΕυθΕ θΕω̂ν ἐθέλοντα νοήσω
+Ἐλθόντ', ἢ ΤρώΕσσιν ἀρηγέμΕν, ἢ Δαναοîσι,
+ΡληγΕὶς οὐ κατα κόσμον ἐλΕυσΕται ΟὔλυμρόνδΕ.
+Η μιν ἑλὼν ρἵψω ἐς Τάρταρον ἠΕρόΕντα,
+Τη̂λΕ μάλ', ἧχι βάθιστον ὑρο χθονός ἐστι βέρΕθρον,
+Ἔνθα σιδήρΕιαί τΕ ρύλαι καὶ χάλκΕος οὐδὸς,
+Τόσσον ἔνΕρθ' ἀΐδΕω, ὅσον οὐρανός ἐστ' ἀρὸ γαίης.
+[Page 62]
+ΓνωσΕτ' ἔρΕιθ', ὅσον Εἰμὶ θΕω̂ν κάρτιστος ἁράντων.
+Εἴδ' ἄγΕ, ρΕιρήσασθΕ θΕοὶ, ἵνα ἔιδΕτΕ ράντΕς,
+ΣΕιρην χρυσΕίην ἐξ οὐρανόθΕν κρΕμάσαντΕς
+ΡάντΕς δ' ἐξάρτΕσθΕ θΕοὶ, ρâσαί τΕ θέαιναι.
+Ἀλλ' οὐχ ἂν ἐρύσαιτ' ἐξ οὐρανόθην ρΕδίονδΕ
+Ζη̂ν' ὕρατον μήστωρ', οὐδ' Εἰ μάλα ρολλὰ κάμοιτΕ.
+Ἀλλ' ὅτΕ δὴ καὶ ἐγὼ ρρόφρων ἐθέλοιμι ἐρύσσαι,
+Αὐτη̂ κΕν γάιη ἐρύσαιμ', αὐτη̂ τΕ θαλάσση.
+ΣΕιρην μέν κΕν ἔρηιτα ρΕρὶ ῥίον Οὐλύμροιο
+Δησαίμην. τὰ δέ κ' αὖτΕ μΕτήορα ράντα γένοιτο.
+Τόσσον ἐγώ ρΕρί τ' ηἰμὶ θΕω̂ν, ρΕρἵ τ' ἔιμ' ἀνθρώρων.
+“Hear me, all ye'gods and goddesses, whilst I declare to you the dictates of my inmost heart. Let neither male nor female of the gods attempt to controvert what I shall say; but let all submissively assent, that I may speedily accomplish my undertakings: for whoever of you shall be found descending to give aid either to the Trojans or
+[Page 63]
+Greeks, shall return to Olympus sorely maimed, and in a disgraceful plight: or else I will seize him, and hurl him down to gloomy Tartarus, where there is a deep dungeon under the earth, with gates of iron, and a pavement of brass, as far below hell, as the earth is below the heavens. Then he will know how much stronger I am than all the other gods. But come now, and make trial, that ye may all be convinced. Suspend a golden chain from heaven, and hang all by one end of it, with your whole weight, gods and goddesses together: you will never pull down from the heaven to the earth, Jupiter, the supreme counsellor, though you should strain with your utmost force. But when I chuse to pull, I will raise you all, with the earth
+[Page 64]
+and sea together, and fastening the chain to the top of Olympus, will keep you all suspended at it. So much am I superior both to gods and men.”
+It must be owned, that this speech is far beneath the dignity of the thunderer; that the braggart vaunting in the beginning of it is nauseous; and that a mean and ludicrous picture is presented, by the whole groupe of gods and goddesses pulling at one end of a chain, and Jupiter at the other. To veil these defects in a translation was difficult; but to give any degree of dignity to this speech required certainly most uncommon powers. Yet I am much mistaken, if Mr Pope has not done so. I shall take the passage from the beginning:
+[Page 65]
+“Aurora now, fair daughter of the dawn,
+Sprinkled with rosy light the dewy lawn,
+When Jove conven'd the senate of the skies,
+Where high Olympus' cloudy tops arise.
+The fire of Gods his awful silence broke,
+The heavens attentive, trembled as he spoke.
+“Celestial states, immortal gods! give ear;
+Hear our decree, and reverence what ye hear;
+The fix'd decree, which not all heaven can move;
+Thou, fate! fulfil it; and, ye powers! approve!
+What God but enters yon forbidden field,
+Who yields assistance, or but wills to yield,
+Back to the skies with shame he shall be driven,
+Gash'd with dishonest wounds, the scorn of Heaven;
+“Or far, oh far, from steep Olympus thrown,
+Low in the dark Tartarean gulph shall groan;
+With burning chains fix'd to the brazen floors,
+And lock'd by hell's inexorable doors;
+As deep beneath th' infernal centre hurl'd,
+As from that centre to th' ethereal world.
+Let him who tempts me dread those dire abodes;
+And know th' Almighty is the God of Gods.
+[Page 66]
+League all your forces then, ye pow'rs above,
+Join all, and try th' omnipotence of Jove:
+Let down our golden everlasting chain,
+Whose strong embrace holds Heav'n, and Earth, and Main:
+“Strive all, of mortal and immortal birth,
+To drag, by this, the Thunderer down to earth:
+Ye strive in vain! If I but stretch this hand,
+I heave the gods, the ocean, and the land;
+I fix the chain to great Olympus' height,
+And the vast world hangs trembling in my sight!
+For such I reign, unbounded and above;
+And such are men and Gods, compar'd to Jove!”
+It would be endless to point out all the instances in which Mr Pope has improved both upon the thought and expression of his original. We find frequently in Homer, amidst the most striking beauties, some circumstances introduced which diminish the merit of the thought or of the description. In such instances, the
+[Page 67]
+good taste of the translator invariably covers the defect of the original, and often converts it into an additional beauty. Thus, in the simile in the beginning of the 3d book, there is one circumstance which offends against good taste.
+Ευτ' ορΕος κορυφη̂σι Νοτος χατΕχΕυΕν ὀμιχλην,
+ΡοιμΕσιν οὐτὶ & phgr;ιλην, κλΕρτη δΕ τΕ νυχτος αμΕινω.
+Τόσσον τις τ'ΕριλΕυσσΕι, ὅσον τ' Ερι λααν ἵησιν.
+Ὡς ἂρα των ὓρο ροσσι χονισσαλος ωρνυτ' αΕλλης
+ΕρχομΕνων. μαλα δ'ώκα διΕρρησσον ρΕδίοιο
+“ As when the south wind pours a thick cloud upon the tops of the mountains, whose shade is unpleasant to the shepherds, but more commodious to the thief than the night itself, and when the gloom is so intense, that one cannot see farther than he can throw a stone: So rose the dust
+[Page 68]
+under the feet of the Greeks marching silently to battle.”
+With what superior taste has the translator heightened this simile, and exchanged the offending circumstance for a beauty. The fault is in the third line; τοσσον τις ΕριλΕυσσΕι, , &c. which is a mean idea, compared with that which Mr Pope has substituted in its stead:
+“Thus from his shaggy wings when Eurus sheds
+A night of vapours round the mountain-heads,
+Swift-gliding mists the dusky fields invade,
+To thieves more grateful than the midnight shade;
+While scarce the swains their feeding flocks survey,
+Lost and confus'd amidst the thicken'd day:
+So wrapt in gath'ring dust the Grecian train,
+A moving cloud, swept on and hid the plain. 8 .”
+But even the highest beauties of the
+[Page 69]
+original receive additional lustre from this admirable translator.
+[Page 70]
+A striking example of this kind has been remarked by Mr Melmoth 9 . It is the translation of that picture in the end of the 8th book of the Iliad, which Eustathius esteemed the finest night-piece that could be found in poetry:
+Ὡς δ' ὁτ Εν οὐρανω̂ αστρα φαΕινην αμφι σΕληνην,
+ΦαίνΕτ' ἀριρρΕρέα, ὅτΕ τ' ἔρλΕτο νὴνΕμος αἰθὴρ
+Ἔχ τ' ἔφανον ρâσαι σκοριαί, χαὶ ρρώονΕς ἄχροι,
+Καὶ νάραι. οὐ;ρανὸθΕν δ' ἄρ' ὑρΕῥῥάγη ἄσρΕτος αἰθὴρ
+Ράντα δέ τ' ἔιδΕται ἄστρα. γέγηθΕ δέ τΕ φρένα ροιμήν.
+“As when the moon appears in the serene canopy of the heavens, surrounded with stars, when every breath of air is hush'd, when every hill, every valley, and every forest, is distinctly seen; when the sky appears to open to the sight in all its boundless extent;
+[Page 71]
+and when the shepherd's heart is delighted within him.” How nobly is this picture raised and improved by Mr Pope!
+“As when the moon, refulgent lamp of night,
+O'er heav'n's clear azure spreads her sacred light:
+When not a breath disturbs the deep serene,
+And not a cloud o'ercasts the solemn scene;
+Around her throne the vivid planets roll,
+And star's unnumber'd gild the glowing pole:
+O'er the dark trees a yellower verdure shed,
+And tip with silver every mountain's head:
+Then shine the vales, the rocks in prospect rise,
+A flood of glory bursts from all the skies:
+The conscious swains rejoicing in the sight,
+Eye the blue vault, and bless the useful light.”
+These passages from Pope's Homer afford examples of a translator's improvement of his original, by a happy amplification and embellishment of his imagery,
+[Page 72]
+or by the judicious correction of defects; but to fix the precise degree to which this amplification, this embellishment, and this liberty of correction may extend, requires a great exertion of judgement. It may be useful to remark some instances of the want of this judgement.
+It is always a fault when the translator adds to the sentiment of the original author, what does not strictly accord with his characteristic mode of thinking, or expressing himself.
+Pone sub curru nimium propinqui
+Solis, in terrâ domibus negatâ;
+Dulce ridentem Lalagen amabo,
+Dulce loquentem. Hor. Od. 22. l. 1.
+[Page 73]
+Thus translated by Rescommon:
+The burning zone, the frozen isles,
+Shall hear me sing of Celia's smiles;
+All cold, but in her breast, I will despise,
+And dare all heat, but that in Celia's eyes.
+The witty ideas in the two last lines are foreign to the original; and the addition of these is quite unjustifiable, as they belong to a quaint species of wit, of which the writings of Horace afford no example.
+Obsidere alii telis angusta viarum
+Oppositi: stat ferri acies mucrone corusco
+Stricta parata neci. Æneis ii. 322.
+Thus translated by Dryden:
+To several posts their parties they divide,
+Some block the narrow streets, some scour the wide:
+The bold they kill, th' unwary they surprise;
+Who fights finds death, and death finds him who flies.
+[Page 74]
+Of these four lines, there are scarcely more than four words which are warranted by the original. “Some block “the narrow streets.” Even this is a faulty translation of obsidere alii telis angusta viarum ; but it fails on the score of mutilation, not redundancy. The rest of the ideas which compose these four lines, are the original property of the translator; and the antithetical witticism in the concluding line, is far beneath the chaste simplicity of Virgil.
+Mr Pope's translation of the following passage of the Iliad, is censurable on the same account:
+Λαοὶ μΕν φθινυθουσι ρΕρι ρτολιν, αιρυ τΕ τε̂ιχος,
+ΜαρναμΕνοι Iliad, 6. 327.
+For thee great Ilion's guardian heroes fall,
+Till heaps of dead alone defend the wall.
+[Page 75]
+Of this conceit, of dead men defending the walls of Troy, Mr Pope has the sole merit. The original, with grave simplicity, declares, that the people fell, fighting before the town, and around the walls. 10
+These last observations, though they principally regard the first general rule of translation, viz. that which enjoins a complete transfusion of the ideas and sentiments of the original work, have likewise a near connection with the second general rule, which I shall now proceed to consider.
+[Page 76]
+CHAP. V.
+Second General Rule: The Style and Manner of writing in a Translation should be of the same Character with that of the Original.—A just Taste requisite for the discernment of the Characters of Style and Manner.—Examples of failure in this particular;—The grave exchanged for the formal;—The elevated for the bombast;—The lively for the petulant;— The simple for the childish.—Hobbes, L'Estrange, Echard, &c.
+Next in importance to a faithful transfusion of the sense and meaning of an author, is an assimilation of
+[Page 77]
+the style and manner of writing in the translation to that of the original. A translator, therefore, must apply his attention to discover the true character of his author's style. He must ascertain with precision to what class it belongs; whether to that of the grave, the elevated, the easy, the lively, the florid and ornamented, or the simple and unaffected; and these characteristic qualities must be equally conspicuous in the translation as in the original. If a translator wants this discernment, let him be ever so thoroughly master of the sense of his author, he will present him through a distorting medium, or exhibit him often in a garb that is unsuitable to his character.
+[Page 78]
+Virgil , in describing the shipwreck of the Trojans, says,
+Apparent rari nantes in gurgite vasto.
+Which the Abbé des Fontaines thus translates: “A peine un petit nombre de ceux qui montoient le vaisseau purent se sauver à la nage.” Of this translation Voltaire justly remarks, “C'est traduire Virgile en style de gazette. Où est ce vaste gouffre que peint le poête, gurgite vasto ? Où est l' apparent rari nantes ? Ce n'est pas ainsi qu'on doit traduire l'Eneide.” Voltaire, Quest. sur l' Encyclop. mot Amplification.
+If we are thus justly offended to hear Virgil speak in the style of the Evening Post or the Daily Advertiser, what must
+[Page 79]
+we think of the translator, who makes the solemn and sententious Tacitus express himself in the low cant of the streets, or in the dialect of the waiters of a tavern?
+Facile Asinium et Messalam inter Antonium et Augustum bellorum prœmiis refertos : Thus translated in a version of Tacitus by Mr Dryden and several eminent hands: “Asinius and Messala, who feathered their nests well in the civil wars 'twixt Antony and Augustus.” Vinolentiam et libidines usurpans : “Playing the good-fellow.” Frustra Arminium præscribi : “Trumping up Arminius's title.” Sed Agrippina libertam æmulam, nurum ancillam, aliaque eundem in modum muliebriter fremere : “But Agrippina could not bear that a freedwoman should nose her.”
+[Page 80]
+And another translator says, “But Agrippina could not bear that a freedwoman should beard her.” Of a similar character with this translation of Tacitus is a translation of Suetonius by several gentlemen of Oxford 11 , which abounds with such elegancies as the following: Sestio Gallo, libidinoso et prodigo seni : “Sestius Gallus, a most notorious old Sir Jolly.” Jucundissimos et omnium horarum amicos : His boon companions and sure cards.” Nullam unquam occasionem dedit : “They never could pick the least hole in his coat.”
+The description of the majesty of Jupiter, contained in the following passage of the first book of the Iliad, is allowed to be a true specimen of the sublime. It is the archetype from which Phidias acknowledged
+[Page 81]
+he had framed his divine sculpture of the Olympian Jupiter.
+Η, και κυανΕησιν Ερ' οφρυσι νέυσΕ Κρονιων.
+Αμβροσιαι δ' αρα χαιτα ΕρΕρρωσαντο ανακτος
+Κρατος αρ' αθανατοιο, μΕγαν δ'ΕλΕλιξΕν Ολυμρον.
+He spoke, and awful bends his sable brows,
+Shakes his ambrosial curls, and gives the nod,
+The stamp of fate, and sanction of the God:
+High heaven, with trembling, the dread signal took,
+And all Olympus to its centre shook. Pope.
+Certainly Mr Hobbes of Malmsbury perceived no portion of that sublime which was felt by Phidias and by Mr Pope, when he could thus translate this fine description:
+This said, with his black brows he to her nodded,
+   Wherewith displayed were his locks divine;
+Olympus shook at stirring of his godhead,
+   And Thetis from it jump'd into the brine.
+[Page 82]
+But a translator may discern the general character of his author's style, and yet fail remarkably in the imitation of it. Unless he is possessed of the most correct taste, he will be in continual danger of presenting an exaggerated picture or a caricatura of his original. The distinction between good and bad writing is often of so very slender a nature, and the shadowing of difference so extremely delicate, that a very nice perception alone can at all times define the limits. Thus in the hands of some translators, who have discernment to perceive the general character of their author's style, but want this correctness of taste, the grave style of the original becomes heavy and formal in the translation; the elevated swells into bombast, the lively froths up into the petulant, and the simple and
+[Page 83]
+naif degenerates into the childish and insipid.
+In the fourth Oration against Catiline, Cicero, after drawing the most striking picture of the miseries of his country, on the supposition that success had crowned the designs of the conspirators, closes the detail with this grave and solemn application:
+Quia mihi vehementer hæc videntur misera atque miseranda, idcirca in eos qui ea perficere voluerunt, me severum, vehementemque præbeo. Etenim quæro, si quis paterfamilias, liberis suis a servo interfectis, uxore occisa, incensa domo, supplicium de servo quam acerbissimum sumserit; utrum is clemens ac misericors, an inhumanissimus et crudelissimus esse videatur? Mihi vero importunus
+[Page 84]
+ac ferreus, qui non dolore ac cruciatu nocentis, suum dolorem ac cruciatum lenierit.
+How awkwardly is the dignified gravity of the original imitated, in the following heavy, formal, and insipid version.
+“ Now as to me these calamities appear extremely shocking and deplorable; therefore I am extremely keen and rigorous in punishing those who endeavoured to bring them about. For let me put the case, that a master of a family had his children butchered, his wife murdered, his house burnt down by a slave, yet did not inflict the most rigorous of punishments imaginable upon that slave: would such a master
+[Page 85]
+appear merciful and compassionate, and not rather a monster of cruelty and inhumanity? To me that man would appear to be of a flinty cruel nature, who should not endeavour to soothe his own anguish and torment by the anguish and torment of its guilty cause 12 .”
+Ovid , in describing the fatal storm in which Ceyx perished, says:
+Undarum incursu gravis unda, tonitrubus æther
+Fluctibus erigitur, cœlumque æquare videtur
+Pontus .—
+An hyperbole, allowable in poetical description; but which Dryden has exaggerated
+[Page 86]
+into the most outrageous bombast:
+Now waves on waves ascending scale the skies,
+And in the fires above the water fries.
+In the first scene of the Amphitryo of Plautus, Sosia thus remarks on the unusual length of the night:
+Neque ego hac nocte longiorem me vidisse censeo,
+Nisi item unam, verberatus quam pependi perpetem.
+Eam quoque, Ædepol, etiam multo hæc vicit longitudine.
+Credo equidem dormire solem atque appotum probe.
+Mira sunt, nisi invitavit sese in cœna plusculum.
+To which Mercury answers:
+Ain vero, verbero? Deos esse tui similes putas?
+Ego Pol te istis tuis pro dictis et malefactis, furcifer,
+Accipiam, modò sis veni huc: invenies infortunium.
+Eachard , who saw no distinction
+[Page 87]
+between the familiar and the vulgar, has translated this in the true dialect of the streets:
+“I think there never was such a long night since the beginning of the world, except that night I had the strappado, and rid the wooden horse till morning; and, o' my conscience, that was twice as long 13 . By the mackins, I believe Phœbus has been playing the good-fellow, and 's asleep too. I'll be hang'd if he ben't in for't, and has took a little too much o' the creature.”
+“ Mer. Say ye so, slave? What, treat Gods like yourselves. By Jove, have at your doublet, Rogue, for scandalum
+[Page 88]
+magnatum . Approach then, you'll ha' but small joy here.”
+“ Mer. Accedam, atque hanc appellabo atque supparasitabo patri. ” Ibid. sc. 3.
+“ Mer. I'll to her, and tickle her up as my father has done.”
+“ Sosia. Irritabis crabrones. ” Ibid, act 2. sc. 2.
+“ Sosia. You'd as good p-ss in a beehive.”
+Seneca , though not a chaste writer, is remarkable for a courtly dignity of expression, which, though often united with ease, never descends to the mean or vulgar. L'Estrange has presented him through a medium of such coarseness, that he is hardly to be known.
+Probatos itaque semper lege, et siquando
+[Page 89]
+ad alios divertere libuerit, ad priores redi. —Nibil œque sanitatem impedit quam remediorum crebra mutatio , Ep. 2. ---“Of authors be sure to make choice of the best; and, as I said before, stick close to them; and though you take up others by the bye, reserve some select ones, however, for your study and retreat. Nothing is more hurtful, in the case of diseases and wounds, than the frequent shifting of physic and plasters.”
+Fuit qui diceret, Quid perdis operam? ille quem quœris elatus, combustus est. De benef. lib. 7. c. 2I.—--“Friend, says a fellow, you may hammer your heart out, for the man you look for is dead.”
+Cum multa in crudelitatem Pisistrati conviva
+[Page 90]
+ebrius dixisset. De ira, lib. 3. c. II. “Thrasippus, in his drink, fell foul upon the cruelties of Pisistratus.”
+From the same defect of taste, the simple and natural manner degenerates into the childish and insipid.
+J'ai perdu tout mon bonheur,
+J'ai perdu mon serviteur,
+   Colin me délaisse.
+Helas! il a pu changer!
+Je voudrois n'y plus songer:
+   J'y songe sans cesse.
+Rousseau , Devin de Village.
+I've lost my love, I've lost my swain;
+   Colin leaves me with disdain.
+Naughty Colin! hateful thought!
+   To Colinette her Colin's naught.
+I will forget him—that I will!
+Ah, t'wont do—I love him still.
+[Page 91]
+CHAPTER VI.
+Examples of a good taste in Poetical Translation. —Bourne's translations from Mallet and from Prior.—The Duke de Nivernois from Horace.—Mr Webb from the Anthologia.—Fragments of the Greek Dramatists by Mr Cumberland.
+After these examples of faulty translation, from a defect of taste in the translator, or a want of a just discernment of his author's style and manner of writing, I shall now present the reader with some specimens of perfect translation, where the authors have entered
+[Page 92]
+with exquisite taste into the manner of their originals, and have succeeded most happily in the imitation of it.
+The first is the opening of the beautiful ballad of William and Margaret , translated by Vincent Bourne.
+I.
+When all was wrapt in dark midnight,
+   And all were fast asleep,
+In glided Margaret's grimly ghost,
+   And stood at William's feet.
+II.
+Her face was like the April morn,
+   Clad in a wintry cloud;
+And clay-cold was her lily hand,
+   That held her sable shrowd.
+III.
+So shall the fairest face appear,
+   When youth and years are flown;
+Such is the robe that Kings must wear,
+   When Death has rest their crown.
+[Page 93]
+IV.
+Her bloom was like the springing flower,
+   That sips the silver dew;
+The rose was budded in her cheek,
+   And opening to the view.
+V.
+But Love had, like the canker-worm,
+   Consum'd her early prime;
+The rose grew pale and left her cheek,
+   She died before her time.
+I.
+Omnia nox tenebris, tacitâque involverat umbrâ,
+    Et fessos bomines vinxerat alta quies;
+Cùm valvæ patuere, et gressu illapsa silenti,
+    Thyrsidis ad lectum stabat imago Chloes.
+II.
+Vultus erat, qualis lachrymosi vultus Aprilis,
+    Cui dubia hyberno conditur imbre dies;
+Quaque sepulchralem à pedibus collegit amictum,
+    Candidior nivibus, frigidiorque manus.
+III.
+Cùmque dies aberunt molles, et lœta juventus,
+    Gloria pallebit, sic Cyparissi tua ;
+[Page 94]
+Cùm mors decutiet capiti diademata, regum
+    Hâc erit in trabeâ conspiciendus honos.
+IV.
+Forma fuit (dum forma fuit) nascentis ad instar
+    Floris, cui cano gemmula rore tumet;
+Et Veneres risere, et subrubuere labella,
+    Subrubet ut teneris purpura prima rosis.
+V.
+Sed lenta exedit tabes mollemque ruborem,
+    Et faciles risus, et juvenile decus;
+Et rosa paulatim languens, nudata reliquit
+    Oscula; prœripuit mors properata Chloen.
+The second is a small poem by Prior, entitled Chloe Hunting , which is likewise translated into Latin by Bourne.
+Behind her neck her comely tresses tied,
+Her ivory quiver graceful by her side,
+A-hunting Chloe went; she lost her way,
+And through the woods uncertain chanc'd to stray.
+Apollo passing by beheld the maid;
+And, sister dear, bright Cynthia, turn, he said;
+[Page 95]
+The hunted hind lies close in yonder brake.
+Loud Cupid laugh'd, to see the God's mistake:
+And laughing cried, learn better, great Divine,
+To know thy kindred, and to honour mine.
+Rightly advis'd, far hence thy sister seek,
+Or on Meander's banks, or Latmus' peak.
+But in this nymph, my friend, my sister know;
+She draws my arrows, and she bends my bow.
+Fair Thames she haunts, and every neighbouring grove,
+Sacred to soft recess, and gentle Love.
+Go with thy Cynthia, hurl the pointed spear
+At the rough boar, or chace the flying deer:
+I, and my Chloe, take a nobler aim;
+At human hearts we fling, nor ever miss the game.
+Forte Chloe, pulchros nodo collecta capillos
+Post collum, pharetrâque latus succincta decorâ,
+Venatrix ad sylvam ibat; cervumque secuta
+Elapsum visu, deserta per avia tendit
+Incerta. Errantem nympham conspexit Apollo,
+Et, converte tuos, dixit, mea Cynthia, cursus;
+En ibi (monstravitque manu) tibi cervus anhelat
+Occultus dumo, latebrisque moratur in illis.
+[Page 96]
+    Improbus hœc audivit amor, lepidumque cachinnum
+Attollens, poterantne etiam tua numina falli?
+Hinc, quœso, bone Phœbe, tuam dignosce sororem,
+Et melius venerare meam. Tua'Cynthia longè,
+Mœandri ad ripas, aut summi in vertice Latmi,
+Versatur; nostra est soror hœc, nostra, inquit, amica est.
+Hœc nostros promit calamos, arcumque sonantem
+Incurvat, Tamumque colens, placidosque recessus
+Lucorum, quos alma quies sacravit amori.
+Ite per umbrosos saltus, lustrisque vel aprum
+Excutite horrentem setis, cervumve fugacem,
+Tuque sororque tua, et directo sternite ferro:
+Nobilior labor, et divis dignissima cura,
+Meque Chloenque manet; nos corda humana ferimus,
+Vibrantes certum vulnus nec inutile telum.
+The third specimen, is a translation by the Duke de Nivernois, of Horace's dialogue with Lydia:
+Horace.
+Plus heureux qu'un monarque au faite des grandeurs,
+   J'ai vu mes jours dignes d'envie,
+[Page 97]
+Tranquiles, ils couloient au gré de nos ardeurs:
+   Vous m'aimiez, charmante Lydie.
+Lydie.
+Que mes jours étoient beaux, quand des soins lesplus doux
+   Vous payiez ma flamme sincére!
+Venus me regardoit avec des yeux jaloux;
+   Chloé n'avoit pas sçu vous plaire.
+Horace.
+Par son luth, par sa voix, organe des amours,
+   Chloé seule me paroit belle:
+Si le Destin jaloux veut épargner ses jours,
+   Je donnerai les miens pour elle.
+Lydie.
+Le jeune Calaïs, plus beau que les amours,
+   Plait seul à mon ame ravie:
+Si le Destin jaloux veut épargner ses jours,
+   Je donnerai deux fois ma vie.
+Horace.
+Quoi, si mes premiers feux, ranimant leur ardeur,
+   Etouffoient une amour fatale;
+Si, perdant pour jamais tous ses droits sur mon cœur,
+   Chloé vous laissoit sans rivale—
+[Page 98]
+Lydie.
+Calaïs est charmant: mais je n'aime que vous,
+   Ingrat, mon cœur vous justifie;
+Heureuse également en des liens si doux,
+   De perdre ou de passer la vie 14 .
+If any thing is faulty in this excellent translation, it is the last stanza, which
+[Page 99]
+does not convey the happy petulance, the procacitas of the original. The reader may compare with this, the fine translation of the same ode by Bishop Atterbury, “Whilst I was fond, and “you were kind,” which is too well known to require insertion.
+The next specimen I shall give is the translation of a beautiful epigram, from the Anthologia , which is supposed by Junius to be descriptive of a painting mentioned
+[Page 100]
+by Pliny 15 , in which, a mother wounded, and in the agony of death, is represented as giving suck to her infant for the last time:
+ΕλρΕ τάλαν ραρα μητρος ὅν ουκ ἔτι μαζὸν ἀμΕλξΕις,
+    Ελκυσον ὑστατιον νâμα καταφθιμΕνης.
+Ηδη γαρ ξιφέΕσσι λιρόρνοος. ἀλλὰ τὰ μητρος
+Φιλτρα καὶ Εν ἀϊδη ραιδοκομΕιν ἔμαθον.
+Thus happily translated into English by Mr Webb:
+Suck, little wretch, while yet thy mother lives,
+Suck the last drop her fainting bosom gives!
+[Page 101]
+She dies: her tenderness survives her breath,
+And her fond love is provident in death.
+To these specimens of perfect translation, in which not only the ideas of the original are completely transfused, but the manner most happily imitated, I add the following admirable translations by Mr Cumberland 16 , of two fragments from the Greek dramatists Timocles and Diphilus, which are preserved by Athenæus.
+The first of these passages beautifully illustrates the moral uses of the tragic drama:
+Nay, my good friend, but hear me! I confess
+Man is the child of sorrow, and this world,
+In which we breathe, hath cares enough to plague us;
+[Page 102]
+But it hath means withal to soothe these cares;
+And he who meditates on others woes,
+Shall in that meditation lose his own:
+Call then the tragic poet to your aid,
+Hear him, and take instruction from the stage:
+Let Telephus appear; behold a prince,
+A spectacle of poverty and pain,
+Wretched in both.—And what if you are poor?
+Are you a demigod? Are you the son
+Of Hercules? Begone! Complain no more.
+Doth your mind struggle with distracting thoughts?
+Do your wits wander? Are you mad? Alas!
+So was Alcmæon, whilst the world ador'd
+His father as their God. Your eyes are dim;
+What then? The eyes of OEdipus were dark,
+Totally dark. You mourn a son; he's dead;
+Turn to the tale of Niobe for comfort,
+And match your loss with hers. You're lame of foot;
+Compare it with the foot of Philoctetes,
+And make no more complaint. But you are old,
+Old and unfortunate; consult Oëneus;
+Hear what a king endur'd, and learn content.
+Sum up your miseries, number up your sighs,
+[Page 103]
+The tragic stage shall give you tear for tear,
+And wash out all afflictions but its own 17
+[Page 104]
+The following fragment from Diphilus conveys a very favourable idea of the spirit of the dialogue, in what has been termed the New Comedy of the Greeks,
+[Page 105]
+or that which was posterior to the age of Alexander the Great. Of this period Diphilus and Menander were among the most shining ornaments.
+We have a notable good law at Corinth,
+Where, if an idle fellow outruns reason,
+Feasting and junketting at furious cost,
+The sumptuary proctor calls upon him,
+And thus begins to sift him.—You live well,
+But have you well to live? You squander freely,
+Have you the wherewithal? Have you the fund
+For these outgoings? If you have, go on!
+If you have not, we'll stop you in good time,
+Before you outrun honesty; for he
+Who lives we know not how, must live by plunder;
+Either he picks a purse, or robs a house,
+Or is accomplice with some knavish gang,
+Or thrusts himself in crowds, to play th'informer,
+And put his perjur'd evidence to sale:
+This a well-order'd city will not suffer;
+Such vermin we expell.—--“And you do wisely:
+“But what is that to me?”—Why, this it is:
+[Page 106]
+Here we behold you every day at work,
+Living, forfooth! not as your neighbours live,
+But richly, royally, ye gods!—Why man,
+We cannot get a fish for love or money,
+You swallow the whole produce of the sea:
+You've driv'n our citizens to brouze on cabbage;
+A sprig of parsley sets them all a-fighting,
+As at the Isthmian games: If hare or partridge,
+Or but a simple thrush comes to the market,
+Quick, at a word, you snap him: By the gods!
+Hunt Athens through, you shall not find a feather
+But in your kitchen; and for wine, 'tis gold—
+Not to be purchas'd.—We may drink the ditches 18
+Of equal merit with these two last specimens, are the greatest part of those
+[Page 107]
+translations given by Mr. Cumberland, of the fragments of the Greek dramatists.
+[Page 108]
+The literary world owes to that ingenious writer a very high obligation,
+[Page 109]
+for his excellent view of the progress of the dramatic art among the Greeks, and for the collection he has made of the remains of more than fifty of their comic poets 19 .
+[Page 110]
+CHAP. VII.
+Limitation of the rule regarding the imitation of Style.—This imitation must be regulated by the Genius of languages. —The Latin admits of a greater brevity of expression than the English;—As does the French.—The Latin and Greek allow greater inversions than the English, —And admit more freely of Ellipsis.
+The rule which enjoins to a translator the imitation of the style of the original author, demands several limitations.
+I. This imitation must always be regulated
+[Page 111]
+by the nature or genius of the languages of the original and of the translation.
+The Latin language admits of a brevity, which cannot be successfully imitated in the English.
+Cicero thus writes to Trebatius, (lib. 7. ep. 17.):
+In Britanniam te profectum non esse gaudeo, quod et tu labore caruisti, et ego te de rebus illis non audiam.
+It is impossible to translate this into English with equal brevity, and at the same time do complete justice to the sentiment. Melmoth, therefore, has shown great judgement, in sacrificing
+[Page 112]
+the imitation of style to the perfect transfusion of the sense. “I am glad for my sake, as well as yours, that you did not attend Cæsar into Britain; as it has not only saved you the fatigue of a very disagreeable journey, but me likewise that of being the perpetual auditor of your wonderful exploits.” Melm. Cic. Lett. b. 2. l. 12.
+Pliny to Minutianus, Lib. 3. Ep. 9. says, towards the end of his letter: Temerè dixi—Succurrit quod prœterieram, et quidcm serò: sed quanquam preposterè reddetur. Facit hoc Homerus, multique illius exemplo. Est alioqui perdecorum: a me tamen non ideo fiet . It is no doubt possible to translate this passage into English with a conciseness almost equal to the original. But in this experiment we must sacrifice
+[Page 113]
+all its ease and spirit. “I have said this rashly—I recollect an omission—somewhat too late indeed. It shall now be supplied, though a little preposterously. Homer does this: and many after his example. Besides, it is not unbecoming; but this is not my reason.” Let us mark how Mr Melmoth, by a happy amplification, has preserved the spirit and ease, though sacrificing the brevity of the original. “But upon recollection, I find that I must recall that last word; for I perceive, a little too late indeed, that I have omitted a material circumstance. However, I will mention it here, though something out of its place. In this, I have the authority of Homer, and several other great names, to keep me in countenance; and the critics will tell you this
+[Page 114]
+irregular manner has its beauties: but, upon my word, it is a beauty I had not at all in my view.”
+An example of a similar brevity of expression, which admits of no imitation in English, occurs in another letter of Cicero to Trebatius, Ep. l. 7. 14.
+Chrysippus Vettius, Cyri architecti libertus, fecit, ut te non immemorem putarem mei. Valde jam lautus es qui gravere literas ad me dare, homini prœsertim domestico. Quod si scribere oblitus es, minus multi jam te advocato causâ cadent. Sin nostri oblitus es, dabo operam ut islhuc veniam antequam planè ex animo tuo essluo.
+In translating this passage, Mr Melmoth has shewn equal judgement. Without
+[Page 115]
+attempting to imitate the brevity of the original, which he knew to be impossible, he saw that the characterising features of the passage were ease and vivacity; and these he has very happily transfused into his translation.
+“ If it were not for the compliments you sent me by Chrysippus, the freedman of Cyrus the architect, I should have imagined I no longer possessed a place in your thoughts. But surely you are become a most intolerable fine gentleman, that you could not bear the fatigue of writing to me, when you had the opportunity of doing so by a man, whom, you know, I look upon as one almost of my own family. Perhaps, however, you may have forgotten the use of your pen: and so much
+[Page 116]
+the better, let me tell you, for your clients, as they will lose no more causes by its blunders. But if it is myself only that has escaped your remembrance, I must endeavour to refresh it by a visit, before I am worn out of your memory, beyond all power of recollection.”
+The French language admits of a brevity of expression more corresponding to that of the Latin: and of this D'Alembert has given many happy examples in his translations from Tacitus.
+Quod si vita suppeditet, principatum divi Nervœ et imperium Trajani, uberiorem, securioremque materiam senectuti seposui: rar â temporum felicitate, ubi sentire quœ velis, et quœ sentias dicere licet , Præf. ad Hist.”
+[Page 117]
+“Si les dieux m'accordent des jours, je destine à l' occupation et à la consolation de ma vieillesse, l'histoire interessante et tranquille de Nerva et de Trajan; tems heureux et rares, où l'on est libre de penser et de parler.”
+And with equal, perhaps superior felicity, the same passage is thus translated by Rousseau: “Que s'il me reste assez de vie, je reserve pour ma vieillesse la riche et paisible matiere des regnes de Nerva et de Trajan: rares et heureux tems, où l'on peut penser librement, et dire ce que l'on pense.”
+But D'Alembert, from too earnest a desire to imitate the conciseness of his original, has sometimes left the sense imperfect. Of this an example occurs in the passage before quoted, An. l. 1.
+[Page 118]
+c. 2. Cum cœteri nobilium, quanto quis servitio promptior, opibus et honoribus extollerentur : the translator, too studious of brevity, has not given the complete idea of his author, “Le reste des nobles trouvoit dans les richesses et dans les honneurs la récompense de l'esclavage.” Omnium consensu capax imperii nisi imperasset , Tac. hist. 1. 49. “Digne de l'empire au jugement de tout le monde tant qu'il ne regna pas.” This is not the idea of the author; for Tacitus does not mean to say that Galba was judged worthy of the empire till he attained to it; but that all the world would have thought him worthy of the empire if he had never attained to it.
+2. The Latin and Greek languages admit of inversions which are inconsistent with the genius of the English.
+[Page 119]
+Mr Gordon, injudiciously aiming at an imitation of the Latin construction, has given a barbarous air to his translation of Tacitus: “To Pallas, who was by Claudius declared to be the deviser of this scheme, the ornaments of the prætorship, and three hundred seventy-five thousand crowns, were adjudged by Bareas Soranus, consul designed,” An. b. 12.—“Still to be seen are the Roman standards in the German groves, there, by me, hung up, An. lib. 1.” Naturally violent was the spirit of Arminius, and now, by the captivity of his wife, and by the fate of his child, doomed to bondage though yet unborn, enraged even to distraction, Ibid . But he, the more ardent he found the affections of the soldiers, and the greater
+[Page 120]
+the hatred of his uncle, so much the more intent upon a decisive victory, weighed with himself all the methods,” &c. Ib. lib. 2.
+Thus , Mr Macpherson, in his translation of Homer, (a work otherwise valuable, as containing a most perfect transfusion of the sense of his author), has generally adopted an inverted construction, which is incompatible with the genius of the English language. “Tlepolemus, the race of Hercules,—brave in battle and great in arms, nine ships led to Troy, with magnanimous Rhodians filled. Those who dwelt in Rhodes, distinguished in nations three,—who held Lindus, Ialyssus, and white Camirus, beheld him afar.—Their leader in arms was Tlepolemus, renowned at the
+[Page 121]
+spear, Il. l. 2.—The heroes the slaughter began.—Alexander first a warrior slew—Through the neck, by the helm passed the steel.—Iphinous, the son of Dexius, through the shoulder he pierced—to the earth fell the chief in his blood, Ib. l. 7. Not unjustly we Hector admire; matchless at launching the spear; to break the line of battle, bold, Ib. l. 5. Nor for vows unpaid rages Apollo; nor solemn sacrifice denied,” Ib. l. I.
+3. The English language is not incapable of an elliptical mode of expression; but it does not admit of it to the same degree as the Latin. Tacitus says, Trepida civitas incusare Tiberium , for trepida civitas incepit incusare Tiberium . We cannot say in English, “The terrified city
+[Page 122]
+to blame Tiberius:” And even as Gordon has translated these words, the ellipsis is too violent for the English language; “hence against Tiberius many complaints.”
+Εννημαρ μΕν ανα στρατὸν ωκΕτο κη̂λα θΕοîο. Il. l. 1. l. 53. “ For nine days the arrows of the god were darted through the camp.” The elliptical brevity of Mr Macpherson's translation of this verse, has no parallel in the original; nor is it agreeable to the English idiom:
+“Nine days rush the shafts of the God.”
+[Page 123]
+CHAPTER VIII.
+Whether a Poem can be well translated into Prose.
+From all the preceding observations respecting the imitation of style, we may derive this precept, That a translator ought always to figure to himself, in what manner the original author would have expressed himself, if he had written in the language of the translation.
+[Page 124]
+This precept leads to the examination, and probably to the decision, of a question which has admitted of some dispute, Whether a poem can be well translated into prose?
+There are certain species of poetry, of which the chief merit consists in the sweetness and melody of the versification. Of these it is evident, that the very essence must perish in translating them into prose. But a great deal of the beauty of every regular poem, consists in the melody of its numbers. Sensible of this truth, many of the prose translators of poetry, have attempted to give a sort of measure to their prose, which removes it from the nature of ordinary language. If this measure is uniform, and its return regular, the composition
+[Page 125]
+is no longer prose, but blank-verse. If it is not uniform, and does not regularly return upon the ear, the composition will be more unharmonious, than if the measure had been entirely neglected. Of this, Mr Macpherson's translation of the Iliad is a strong example.
+But it is not only by the measure that poetry is distinguishable from prose. It is by the character of its thoughts and sentiments, and by the nature of that language in which they are clothed. A boldness of figures, a luxuriancy of imagery, a frequent use of metaphors, a quickness of transition, a liberty of digressing; all these are not only allowable in poetry, but to many species of it, essential . But they are quite unsuitable to the character of prose. When seen in a
+[Page 126]
+prose translation , they appear preposterous and out of place, because they are never found in an original prose composition.
+In opposition to these remarks, it may be urged, that there are examples of poems originally composed in prose, as Fenelon's Telemachus. But to this we answer, that Fenelon, in composing his Telemachus, has judiciously adopted nothing more of the characteristics of poetry, than what might safely be given to a prose composition. His good taste prescribed to him certain limits, which he was under no necessity of transgressing. But a translator is not left to a similar freedom of judgement: he must follow the footsteps of his original. Fenelon's Epic Poem is of a very different
+[Page 127]
+character from the Iliad, the Æneid, or the Gierusalemme Liberata . The French author has, in the conduct of his fable, seldom transgressed the bounds of historic probability; he has sparingly indulged himself in the use of the Epic machinery; and there is a chastity and sobriety even in his language, very different from the glowing enthusiasm that characterises the diction of the poems we have mentioned: We find nothing in the Telemaque of the Os magna sonaturum.
+The difficulty of translating poetry into prose, is different in its degree, according to the nature or species of the poem. Didactic poetry, of which the principal merit consists in the detail of a regular system, or in rational precepts which flow from each other in a connected
+[Page 128]
+train of thought, will evidently suffer least by being transfused into prose. But every didactic poet judiciously enriches his work with such ornaments as are not strictly attached to his subject. In a prose translation of such a poem, all that is strictly systematic or preceptive may be transfused with propriety; all the rest, which belongs to embellishment, will be found impertinent and out of place.
+But there are certain species of poetry, of the merits of which it will be found impossible to convey the smallest idea in a prose translation. Such is Lyric poetry, where a greater degree of irregularity of thought, and a more unrestrained exuberance of fancy, is allowable than in any other species of composition. To attempt,
+[Page 129]
+therefore, a translation of a lyric poem into prose, is the most absurd of all undertakings; for those very characters of the original which are essential to it, and which constitute its highest beauties, if transferred to a prose translation, become unpardonable blemishes. The excursive range of the sentiments, and the play of fancy, which we admire in the original, degenerate in the translation into mere raving and impertinence.
+We may certainly, from the foregoing observations, conclude, that it is impossible to do complete justice to any species of poetical composition in a prose translation; in other words, that none but a poet can translate a poet.
+[Page 130]
+CHAP. IX.
+Third General Rule—A Translation should have all the Ease of Original Composition. —Extreme difficulty in the observance of this Rule.—Contrasted Instances of Success and Failure.
+It remains now that we consider the third general law of translation.
+In order that the merit of the original work may be so completely transfused as to produce its full effect, it is necessary,
+[Page 131]
+not only that the translation should contain a perfect transcript of the sentiments of the original, and present likewise a resemblance of its style and manner; but, That the translation should have all the ease of original composition.
+When we consider those restraints within which a translator finds himself necessarily confined, with regard to the sentiments and manner of his original, it will soon appear that this last requisite includes the most difficult part of his task 20 To one who walks in trammels, it is not easy to exhibit an air of grace
+[Page 132]
+and freedom. It is difficult, even for a capital painter, to preserve in a copy of
+[Page 133]
+a picture all the ease and spirit of the original; yet the painter employs precisely the same colours, and has no other care than faithfully to imitate the touch and manner of the picture that is before him: if the original is easy and graceful, the copy will have the same qualities, in proportion as the imitation is just and perfect. The translator's task is very different: He uses not the same colours with the original, but is required to give his picture the same force and effect. He is not allowed to copy the touches of the original, yet is required, by touches of his own, to produce a perfect resemblance. The more he studies a scrupulous imitation, the less his copy will reflect the ease and spirit of the original. How then shall a translator accomplish this difficult union of ease with fidelity? To use a
+[Page 134]
+bold expression, he must adopt the very soul of his author, which must speak through his own organs.
+Let us proceed to exemplify this third rule of translation, which regards the attainment of ease of style, by instances both of success and failure.
+The familiar style of epistolary correspondence is rarely attainable even in original composition. It consists in a delicate medium between the perfect freedom of ordinary conversation and the regularity of written dissertation or narrative. It is extremely difficult to attain this delicate medium in a translation; because the writer has neither a freedom of choice in the sentiments, nor in the mode of expressing them. Mr Melmoth
+[Page 135]
+appears to me to be a great model in this respect. His Translations of the Epistles of Cicero and of Pliny have all the ease of the originals, while they present in general a very faithful transcript of his author's sense.
+“Surely, my friend , your couriers are a set of the most unconscionable fellows. Not that they have given me any particular offence; but as they never bring me a letter when they arrive here, is it fair , they should always press me for one when they return?” Melmoth, Cic. Ep. 10. 20.
+Prœposteros habes tabellarios; etsi me quidem non offendunt. Sed tamen cum a me discedunt, flagitant litteras, cum ad me veniunt, nullas afferunt. Cic. Ep. l. 15. ep. 17.
+[Page 136]
+“Is it not more worthy of your mighty ambition, to be blended with your learned brethren at Rome, than to stand the sole great wonder of wisdom amidst a parcel of paltry provincials ?” Melmoth, Cic. Ep. 2. 23.
+Velim—ibi malis esse ubi aliquo numero sis, quam isthic ubi solus sapere videare , Cic. Epist. l. 1. ep. IO.
+“ In short , I plainly perceive your finances are in no flourishing situation, and I expect to hear the same account of all your neighbours; so that famine, my friend, most formidable famine , must be your fate , if you do not provide against it in due time. And since you have been reduced to sell your horse, e'en mount your mule,
+[Page 137]
+(the only animal, it seems , belonging to you, which you have not yet sacrificed to your table ), and convey yourself immediately to Rome. To encourage you to do so , you shall be honoured with a chair and cushion next to mine, and sit the second great pedagogue in my celebrated school.” Melmoth, Cic. Ep. 8. 22.
+Video te bona perdidisse: spero idem isthuc familiares tuos. Actum igitur de te est, nisi provides. Potes mulo isto quem tibi reliquum dicis esse (quando cantherium comedisti) Romam pervehi. Sella tibi erit in ludo, tanquam hypodidascalo; proxima eam pulvinus sequetur. Cic. Ep. l. 9. Ep. 18.
+“ Are you not a pleasant mortal , to question me concerning the fate of
+[Page 138]
+those estates you mention, when Balbus had just before been paying you a visit ?” Melmoth, Cic. Ep. 8. 24.
+Non tu homo ridiculus es, qui cum Balbus noster apud te fuerit, ex me quœras quid de istis municipiis et agris futurum putem ? Cic. Ep. 9. I7.
+“ And now I have raised your expectations of this piece, I doubt you will be disappointed when it comes to your hands . In the meanwhile, however, you may expect it, as something that will please you: And who knows but it may ?” Plin. Ep. 8. 3.
+Erexi expectationem tuam; quam vereor ne destituat oratio in manus sumpta. Interim
+[Page 139]
+tamen, tanquam placituram, et fortasse placebit, expecta. Plin. Ep. 8. 3.
+“I consent to undertake the cause which you so earnestly recommend to me; but as glorious and honourable as it may be, I will not be your counsel without a fee . Is it possible, you will say, that my friend Pliny should be so mercenary? In truth it is ; and I insist upon a reward, which will do me more honour than the most disinterested patronage.” Plin. Ep. 6. 23.
+Impense petis ut agam causam pertinentem ad curam tuam, pulchram alioquin et famosam. Faciam, sed non gratis. Qui fieri potest (inquis) ut non gratis tu? Potest: exigam enim mercedem honestiorem gratuito patrocinio. Plin. Ep. 8. 3.
+[Page 140]
+To these examples of the ease of epistolary correspondence, I add a passage from one of the orations of Cicero, which is yet in a strain of greater familiarity: “A certain mechanic— What's his name?—Oh, I'm obliged to you for helping me to it : Yes, I mean Polycletus.” Melmoth.
+Artificem—quemnam? Recte admones. Polycletum esse ducebant. Cicero, Orat. 2. in Verrem.
+In the preceding instances from Mr Melmoth, the words of the English translation which are marked in Italics, are those which, in my opinion, give it the ease of original composition.
+But while a translator thus endeavours to transfuse into his work all the ease of
+[Page 141]
+the original, the most correct taste is requisite to prevent that ease from degenerating into licentiousness. I have given some examples of the want of this taste in treating of the imitation of style and manner. The most licentious of all translators was Mr Thomas Brown, of facetious memory, in whose translations from Lucian we have the most perfect ease; but it is the ease of Billingsgate and of Wapping. I shall contrast a few passages of his translation of this author, with those of another translator, who has given a faithful transcript of the sense of his author, but from an over-scrupulous fidelity has failed a little in point of ease.
+Gnathon. “What now! Timon, do you strike me? Bear witness, Hercules! O me, O me! But I will call you into
+[Page 142]
+the Areopagus for this. Timon , Stay a little only, and you may bring me in guilty of murder 21 .” Franklin's Lucian.
+Gnathon : “Confound him! what a blow he has given me! What's this for, old Touchwood? Bear witness, Hercules, that he has struck me. I warrant you, I shall make you repent of this blow. I'll indite you upon an action of the case, and bring you coram nobis for an assault and battery.” Timon . “Do, thou confounded lawpimp, do; but if thou stay'st one minute longer, I'll beat thee to pap. I'll
+[Page 143]
+make thy bones rattle in thee, like three blue beans in a blue bladder. Go, stinkard, or else I shall make you alter your action, and get me indicted for manslaughter.” Timon Trans! by Brown, in Drydén's Lucian.
+“ On the whole, a most perfect character; we shall see presently, with all his modesty, what a bawling he will make.” Franklin's Lucian, Timon 22
+“In fine, he's a person that knows the world better than any one, and is extremely well acquainted with the whole Encyclopœdia of villany; a true elaborate finished rascal, and for all, he
+[Page 144]
+“appears so demure now, that you'd think butter would not melt in his mouth; yet I shall soon make him open his pipes, and roar like a persecuted bear.” Dryden's Lucian, Timon.
+“ He changes his name, and instead of Byrria, Dromo, or Tibius, now takes the name of Megacles, or Megabyzus, or Protarchus, leaving the rest of the expectants gaping and looking at one another in silent sorrow.” Franklin's Lucian, Timon 23 .
+“ Straight he changes his name, so that the rascal, who the moment before
+[Page 145]
+had no other title about the house, but, you son of a whore, you bulk-begotten cur, you scoundrel, must now be called his worship, his excellency, and the Lord knows what. The best on't is, that this mushroom puts all these fellows noses out of joint,” &c. Dryden's Lucian, Timon.
+From these contrasted specimens we may decide, that the one translation of Lucian fails perhaps as much on the score of restraint, as the other on that of licentiousness. The preceding examples from Melmoth point out, in my opinion, the just medium of free and spirited translation, for the attainment of which the most correct taste is requisite.
+[Page 146]
+CHAP. X
+It is less difficult to attain the ease of original composition in Poetical, than in Prose translation.—Lyric poctry admits of the greatest liberty of translation.—Examples distinguishing Paraphrase from Translation, —from Dryden, Lowth, Hughes.
+It may perhaps appear paradoxical to assert, that it is less difficult to give to a poetical translation all the ease of original composition, than to give the same degree of ease to a prose translation. Yet the truth of this assertion will be readily admitted, if assent is given to that observation,
+[Page 147]
+which I before endeavoured to illustrate, viz. That a superior degree of liberty is allowed to a poetical translator in amplifying, retrenching from, and embellishing his original, than to a prose translator. For without some portion of this liberty, there can be no ease of composition; and where the greatest liberty is allowable, there that ease will be most apparent, as it is less difficult to attain to it.
+For the same reason, among the different species of poetical composition, the lyric is that which allows of the greatest liberty in translation; as a freedom both of thought and expression is agreeable to its character. Yet even in this, which is the freest of all species of translation, we must guard against licentiousness;
+[Page 148]
+and perhaps the more so, that we are apt to persuade ourselves that the less caution is necessary. The difficulty indeed is, where so much freedom is allowed, to define what is to be accounted licentiousness in poetical translation. A moderate liberty of amplifying and retrenching the ideas of the original, has been granted to the translator of prose; but is it allowable, even to the translator of a lyric poem, to add new images and new thoughts to those of the original, or to enforce the sentiments by illustrations which are not in the original? As the limits between free translation and paraphrase are more easily perceived than they can be well defined, instead of giving a general answer to this question, I think it safer to give my opinion upon particular examples.
+[Page 149]
+Dr Lowth has adapted to the present times, and addressed to his own countrymen, a very noble imitation of the 6th ode of the 3d book of Horace: Delicta majorum immeritus lues , &c. The greatest part of this composition is of the nature of parody; but in the version of the following stanza there is perhaps but a slight excess of that liberty which may be allowed to the translator of a lyric poet:
+Motus doceri gaudet Ionicos
+Matura virgo, et fingitur artubus
+    Jam nunc, et incestos amores
+       De tenero meditatur ungui.
+The ripening maid is vers'd in every dangerous art,
+That ill adorns the form, while it corrupts the heart;
+   Practis'd to dress, to dance, to play,
+   In wanton mask to lead the way,
+To move the pliant limbs, to roll the luring eye;
+With Folly's gayest partizans to vie
+[Page 150]
+   In empty noise and vain expence;
+   To celebrate with flaunting air
+   The midnight revels of the fair;
+Studious of every praise, but virtue, truth, and sense.
+Here the translator has superadded no new images or illustrations; but he has, in two parts of the stanza, given a moral application which is not in the original: “That ill adorns the form, while it corrupts the heart;” and “Studious of every praise, but virtue, truth, and sense.” These moral lines are unquestionably a very high improvement of the original; but they seem to me to transgress, though indeed very slightly, the liberty allowed to a poetical translator.
+In that fine translation by Dryden, of the 29th ode of the 3d book of Horace, which upon the whole is paraphrastical,
+[Page 151]
+the version of the two following stanzas has no more licence than what is justifiable:
+Fortuna sœvo lœta negotio, et
+Ludum insolentem ludere pertinax,
+    Transmutat incertos honores,
+       Nunc mihi, nunc alii benigna.
+Laudo manentem: si celeres quatit
+Pennas, resigno quœ dedit: et mea
+    Virtute me involvo, probamque
+       Pauperiem sine dote quœro.
+Fortune, who with malicious joy
+   Does man, her slave, oppress,
+Proud of her office to destroy,
+   Is seldom pleas'd to bless.
+Still various, and inconstant still,
+But with an inclination to be ill,
+Promotes, degrades, delights in strife,
+And makes a lottery of life.
+I can enjoy her while she's kind;
+But when she dances in the wind,
+[Page 152]
+   And shakes her wings, and will not stay,
+   I puff the prostitute away:
+The little or the much she gave is quietly resign'd;
+   Content with poverty, my soul I arm,
+And Virtue, though in rags, will keep me warm.
+In the following poem by Mr Hughes, which the author has intitled an imitation of the 16th ode of the 2d book of Horace, the greatest part of the composition is a just and excellent translation, while the rest is a free paraphrase or commentary on the original. I shall mark in Italics, all that I consider as paraphrastical: the rest is a just translation, in which the writer has assumed no more liberty, than was necessary to give the poem the easy air of an original composition.
+[Page 153]
+I.
+Indulgent Quiet! Pow'r serene,
+Mother of Peace, and Joy, and Love,
+O say, thou calm, propitious Queen,
+    Say, in what solitary grove,
+Within what hollow rock, or winding cell,
+       By human eyes unseen,
+Like some retreated Druid dost thou dwell?
+    And why, illusive Goddess! why,
+    When we thy mansion would surround,
+Why dost thou lead us through enchanted ground,
+To mock our vain research, and from our wishes fly ?
+II.
+   The wand'ring sailors, pale with fear,
+      For thee the gods implore,
+   When the tempestuous sea runs high,
+And when through all the dark, benighted sky,
+   No friendly moon or stars appear,
+   To guide their steerage to the shore:
+   For thee the weary soldier prays,
+   Furious in fight the sons of Thrace,
+And Medes, that wear majestic by their side
+   A full-charg'd quiver's decent pride,
+[Page 154]
+Gladly with thee would pass inglorious days,
+   Renounce the warrior's tempting praise,
+   And buy thee, if thou might'st be sold,
+With gems, and purple vests, and stores of plunder'd gold.
+III.
+But neither boundless wealth, nor guards that wait
+   Around the Consul's honour'd gate,
+Nor antichambers with attendants fill'd,
+The mind's unhappy tumults can abate,
+   Or banish sullen cares, that fly
+   Across the gilded rooms of state,
+    And their foul nests like swallows build
+Close to the palace-roofs and tow'rs that pierce the sky ?
+   Much less will Nature's modest wants supply:
+   And happier lives the homely swain,
+   Who in some cottage, far from noise,
+   His few paternal goods enjoys;
+   Nor knows the sordid lust of gain,
+      Nor with Fear's tormenting pain
+      His hovering sleeps destroys.
+IV.
+      Vain man! that in a narrow space
+   At endless game projects the daring spear!
+[Page 155]
+      For short is life's uncertain race;
+      Then why, capricious mortal! why
+      Dost thou for happiness repair
+   To distant climates and a foreign air?
+      Fool! from thyself thou canst not fly,
+      Thyself the source of all thy care:
+    So flies the wounded stag, provok'd with pain,
+       Bounds o'er the spacious downs in vain;
+    The feather'd torment sticks within his side,
+    And from the smarting wound a purple tide
+Marks all his way with blood, and dies the grassy plain.
+V.
+   But swifter far is execrable Care
+      Than stags, or winds, that through the skies
+   Thick-driving snows and gather'd tempests bear;
+   Pursuing Care the sailing ship out-flies,
+      Climbs the tall vessel's painted sides;
+      Nor leaves arm'd squadrons in the field,
+      But with the marching horseman rides,
+And dwells alike in courts and camps, and makes all places yield.
+VI.
+   Then, since no state's completely blest,
+   Let's learn the bitter to allay
+[Page 156]
+      With gentle mirth, and wisely gay,
+      Enjoy at least the present day,
+         And leave to Fate the rest.
+      Nor with vain fear of ills to come
+      Anticipate th' appointed doom.
+      Soon did Achilles quit the stage;
+      The hero fell by sudden death;
+   While Tithon to a tedious, wasting age
+         Drew his protracted breath.
+      And thus, old partial Time, my friend,
+      Perhaps unask'd, to worthless me
+      Those hours of lengthen'd life may lend,
+                     Which he'll refuse to thee.
+VII.
+      Thee shining wealth, and plenteous joys surround,
+                     And all thy fruitful fields around
+                     Unnumber'd herds of cattle stray;
+                     Thy harness'd steeds with sprightly voice,
+                     Make neighbouring vales and hills rejoice,
+While smoothly the gay chariot flies o'er the swiftmeasur'd way.
+   To me the stars with less profusion kind,
+                     An humble fortune have assign'd,
+[Page 157]
+         And no untuneful Lyric vein,
+         But a sincere contented mind
+That can the vile, malignant crowd disdain 24
+[Page 159]
+CHAPTER. XI.
+Of the translation of idiomatic phrases.— Examples from Cotton, Eachard, Sterne. —Injudicious use of idioms in the translation, which do not correspond with the age or country of the original.—Idiomatic phrases sometimes incapable of translation.
+While a translator endeavours to give to his work all the ease of original composition, the chief difficulty
+[Page 160]
+he has to encounter will be found in the translation of idioms, or those turns of expression which do not belong to universal grammar, but of which every language has its own, that are exclusively proper to it. It will be easily understood, that when I speak of the difficulty of translating idioms, I do not mean those general modes of arrangement or construction which regulate a whole language, and which may not be common to it with other tongues: As, for example, the placing the adjective always before the substantive in English, which in French and in Latin is most commonly placed after it; the use of the participle in English, where the present tense is used in other languages; as he is writing, scribit, il écrit ; the use of the preposition to before the infinitive in English,
+[Page 161]
+where the French use the preposition de or of . These, which may be termed the general idioms of a language, are soon understood, and are exchanged for parallel idioms with the utmost ease. With regard to these a translator can never err, unless through affection or choice. For example, in translating the French phrase, Il profita d'un avis , he may choose fashionably to say, in violation of the English construction, he profited of an advice ; or, under the sanction of poetical licence, he may choose to engraft the idiom of one language into another, as Mr Macpherson has done, where he says, “Him to the strength of Hercules , the lovely Astyochea bore;” Ον τΕχΕν ΑστυοχΕια, βιη ΗραχληΕιη . Il. lib. 2. l. 165. But it is not with regard to such idiomatic constructions, that a translator
+[Page 162]
+will ever find himself under any difficulty. It is in the translation of those particular idiomatic phrases of which every language has its own collection; phrases which are generally of a familiar nature, and which occur most commonly in conversation, or in that species of writing which approaches to the ease of conversation.
+The translation is perfect, when the translator finds in his own language an idiomatic phrase corresponding to that of the original. Montaigne (Ess. l. 1. c. 29.) says of Gallio, “Lequel ayant été envoyé en exil en l'isle de Lesbos, on fut averti à Rome qu'il s'y donnoit du bon temps , et que ce qu'on lui avoit enjoint pour peine, lui tournoit à commodité.” The difficulty of
+[Page 163]
+translating this sentence, lies in the idiomatic phrase, “ qu'il s'y donnoit du bon temps .” Cotton finding a parallel idiom in English, has translated the passage with becoming ease and spirit: “As it happened to one Gallio, who having been sent an exile to the isle of Lesbos, news was not long after brought to Rome, that he there lived as merry as the day was long ; and that what had been enjoined him for a penance, turned out to his greatest pleasure and satisfaction.” Thus, in another passage of the same author, (Essais, l. 1. c. 29.) Si j'eusse etè chef de part , j'eusse prins autre voye plus naturelle.” Had I rul'd the roast , I should have taken another and more natural course.” So likewise, (Ess. l. 1. c. 25.) “Mais d'y enfoncer plus avant, et de m'être rongé les ongles à
+[Page 164]
+l'etude d' Aristote , monarche de la doctrine moderne.” “But, to dive farther than that, and to have cudgell'd my brains in the study of Aristotle , the monarch of all modern learning.” So, in the following passages from Terence, translated by Eachard: “ Credo manibus pedibusque obnixè omnia facturum .” Andr. Act. 1. I know he'll be at it tooth and nail.” Herus, quantum audio, uxore excidit , And. Act. 2. “For aught I perceive, my poor master may go whistle for a wife.”
+It is not perhaps possible to produce a happier instance of translation by corresponding idioms, than Sterne has given in the translation of Slawkenbergius's Tale. “ Nihil me pœnitet hujus nasi ,” “quoth Pamphagus; that is, my nose has been the making of me.” Nec est cur pœniteat ;
+[Page 165]
+“that is, How the deuce should such a nose fail?” Tristram Shandy, vol. 3. ch. 7. Miles peregrini in faciem suspexit. Dî boni, nova forma nasi! “The centinel look'd up into the stranger's face.—Never saw such a nose in his life!” Ibid.
+As there is nothing which so much conduces both to the ease and spirit of composition, as a happy use of idiomatic phrases, there is nothing which a translator, who has a moderate command of his own language, is so apt to carry to a licentious extreme. Eachard, whose translations of Terence and of Plautus have, upon the whole, much merit, is extremely censurable for his intemperate use of idiomatic phrases. In the first act of the Andria , Davus thus speaks to himself:
+[Page 166]
+Enimvero, Dave, nihil loci est segnitiœ neque socordiœ. Quantum intellexi senis sententiam de nuptiis: Quœ si non astu providentur, me aut herum pessundabunt, Necquid agam certum est, Pamphilumne adjutem an auscultem seni.
+Terent. Andr. Act. I. Sc. 4.
+The translation of this passage by Eachard, exhibits a strain of vulgar petulance, which is very opposite to the chastened simplicity of the original.
+“ Why , seriously, poor Davy, 'tis high time to bestir thy stumps, and to leave off dozing; at least, if a body may guess at the old man's meaning by his mumping. If these brains do not help me out at a dead lift, to pot goes Pilgarlick, or his master, for certain: and, hang me for a dog, if I know
+[Page 167]
+which side to take; whether to help my young master, or make fair with his father.”
+In the use of idiomatic phrases, a translator frequently forgets both the country of his original author, and the age in which he wrote; and while he makes a Greek or a Roman speak French or English, he unwittingly puts into his mouth allusions to the manners of modern France or England. This, to use a phrase borrowed from painting, may be termed an offence against the costume . Cicero in his oration for Archias, says, “ Persona quœ propter otium et studium minime in judiciis periculisque versata est .” M. Patru has translated this, “Un homme que ses études et ses livres ont eloigné du commerce du Palais .” The Palais , or the
+[Page 168]
+Old Palace of the kings of France, it is true, is the place where the parliament of Paris and the chief courts of justice were assembled for the decision of causes; but it is just as absurd to make Cicero talk of his haranguing in the Palais , as it would be, of his pleading in Westminster-Hall. In this respect, Eachard is most notoriously faulty: We find in every page of his translations of Terence and Plautus, the most incongruous jumble of ancient and of modern manners. He talks of the “Lord Chief Justice of Athens,” Jam tu autem nobis Prœturam geris ? Pl. Epid. act 1. sc. 1. and says, “I will send him to Bridewell with his skin stripped over his ears,” Hominem irrigatum plagis pistori dabo . Ibid. sc. 3. “I must expect to beat hemp in Bridewell all the days of my life.” Molendum mihi est usque
+[Page 169]
+in pistrino , Ter. Phormio, act. 2. “He looks as grave as an alderman,” Tristis severitas inest in vultû , Ibid. Andria, act 5.—The same author makes the ancient heathen Romans and Greeks, swear British and Christian oaths; such as, “Fore George, Blood and ounds, Gadzookers, 'Sbuddikins, By the Lord Harry!” They are likewise well read in the books both of the Old and New Testament: “Good b'ye, Sir Solomon,” says Gripus to Trachalion, Salve, Thales ! Pl. Rudens, act 4. sc. 3.; and Sofia thus vouches his own identity to Mercury, “By Jove I am he, and 'tis as true as the gospel,” Per Jovem juro, med esse, neque me falsum dicere , Pl. Amphit. act I. sc. I 25 . The
+[Page 170]
+same ancients, in Mr Eachard's translation, are familiarly acquainted with the modern invention of gunpowder; “Had we but a mortar now to play upon them under the covert way, one bomb would make them scamper,” Fundam tibi nunc nimis vellem dari, ut tu illos procul hinc ex oculto cœderes, facerent fugam , Ter. Eun. act 4. And as their soldiers swear and fight, so they must needs drink like the moderns: “This god can't afford one brandy-shop in all his dominions,” Ne Thermopolium quidem ullum ille instruit , Pl. Rud. act 2. sc. 9. In the same comedy, Plautus, who wrote 180 years before Christ, alludes to the battle of La Hogue, fought
+[Page 171]
+A. D. 1692. “I'll be as great as a king,” says Gripus, “I'll have a Royal Sun 26 for pleasure, like the King of France, and sail about from port to port,” Navibus magnis mercaturam faciam , Pl. Rud. act 4. sc. 2.
+A translator will often meet with idiomatic phrases in the original author, to which no corresponding idiom can be found in the language of the translation. As a literal translation of such phrases cannot be tolerated, the only resource is, to express the sense in plain and easy language. Cicero, in one of his letters to Papirius Pætus, says, “ Veni igitur, si vires, et disce jam ρρολΕγομΕνας quas quœris;
+[Page 172]
+etsi sus Minervam ,” Ep. ad Fam. 9. 18. The idiomatic phrase si vires , is capable of a perfect translation by a corresponding idiom; but that which occurs in the latter part of the sentence, etsi sus Minervam , can neither be translated by a corresponding idiom, nor yet literally. Mr Melmoth has thus happily expressed the sense of the whole passage: “If you have any spirit then, fly hither, and learn from our elegant bills of fare how to refine your own; though, to do your talents justice, this is a sort of knowledge in which you are much superior to your instructors.” —Pliny, in one of his epistles to Cal[illeg.]isius, thus addresses him, Assem para, et accipe auream fabulam: fabulas immo: nam me priorum nova admonuit , lib. 2. ep. 20. To this expression assem para , &c.
+[Page 173]
+which is a proverbial mode of speech, we have nothing that corresponds in English. To translate the phrase literally would have a poor effect: “Give me a penny, and take a golden story, or a story worth gold.” Mr Melmoth has given the sense in easy language: Are you inclined to hear a story? or, if you please, two or three? for one brings to my mind another.”
+But this resource of translating the idiomatic phrase into easy language must fail, where the merit of the passage to be translated actually lies in that expression which is idiomatical. This will often occur in epigrams, many of which are therefore incapable of translation: Thus, in the following epigram the point of wit lies in an idiomatic phrase,
+[Page 174]
+and is lost in every other language where the same precise idiom does not occur: On the wretched imitations of the Diable Boiteux of Le Sage :
+Le Diable Boiteux est aimable;
+Le Sage y triomphe aujourdhui;
+Tout ce qu' on a fait après lui
+                                         N'a pas valu le Diable.
+We say in English, “'Tis not worth a fig;” or, “'tis not worth a farthing;” but we cannot say, as the French do, “'Tis not worth the devil;” and therefore the epigram cannot be translated into English.
+Somewhat of the same nature are the following lines of Marot, in his Epitre au Roi , where the merit lies in the ludicrous naiveté of the last line,
+[Page 175]
+which is idiomatical, and has no strictly corresponding expression in English:
+J'avois un jour un valet de Gascogne,
+Gourmand, yvrogne, et assuré menteur,
+Pipeur, larron, jureur, blasphémateur,
+Sentant la hart de cent pas à la ronde:
+Au demeurant le meilleur filz du monde.
+Although we have idioms in English that are nearly similar to this, we have none which has the same naiveté , and therefore no justice can be done to this passage by any English translation.
+[Page 176]
+CHAP. XII.
+Difficulty of translating Don Quixote, from its idiomatic Phraseology.—Of the best Translations of that Novel.—Comparison of the Translation by Motteux with that by Smollet.
+There is perhaps no book to which it is more difficult to do perfect justice in a translation than the Don Quixote of Cervantes . This difficulty arises from the extreme frequency of its idiomatic phrases. As the Spanish language is in itself highly idiomatical, even the narrative
+[Page 177]
+part of the book is on that account difficult; but the colloquial part is studiously filled with idioms, as one of the principal characters continually expresses himself in proverbs. Of this work there have been many English translations, executed, as may be supposed, with various degrees of merit. The two best of these, in my opinion, are the translations of Motteux and Smollet, both of them writers eminently well qualified for the task they undertook. It will not be foreign to the purpose of this Essay, if I shall here make a short comparative estimate of the merit of these translations 27 .
+[Page 178]
+Smollet inherited from nature a strong sense of ridicule, a great fund of original humour, and a happy versatility of talent, by which he could accommodate his style to almost every species of writing. He could adopt alternately the solemn, the lively, the sarcastic, the burlesque, and the vulgar. To these qualifications he joined an inventive genius, and a vigorous imagination. As he possessed talents equal to the composition of original works of the same species with the novel of Cervantes; so it is not perhaps possible to conceive a writer more completely qualified to give a perfect translation of that novel.
+Motteux , with no great abilities as an original writer, appears to me to have been endowed with a strong perception
+[Page 179]
+of the ridiculous in human character; a just discernment of the weaknesses and follies of mankind. He seems likewise to have had a great command of the various styles which are accommodated to the expression both of grave burlesque, and of low humour. Inferior to Smollet in inventive genius, he seems to have equalled him in every quality which was essentially requisite to a translator of Don Quixote. It may therefore be supposed, that the contest between them will be nearly equal, and the question of preference very difficult to be decided. It would have been so, had Smollet confided in his own strength, and bestowed on his task that time and labour which the length and difficulty of the work required: but Smollet too often wrote in such circumstances, that dispatch was his
+[Page 180]
+primary object. He found various English translations at hand, which he judged might save him the labour of a new composition. Jarvis could give him faithfully the sense of his author; and it was necessary, only to polish his asperities, and lighten his heavy and aukward phraseology. To contend with Motteux, Smollet found it necessary to assume the armour of Jarvis. This author had purposely avoided, through the whole of his work, the smallest coincidence of expression with Motteux, whom, with equal presumption and injustice, he accuses in his preface of having “taken his version wholly from the French 28 .” We find,
+[Page 181]
+therefore, both in the translation of Jarvis and in that of Smollet, which is little
+[Page 182]
+else than an improved edition of the former, that there is a studied rejection
+[Page 183]
+of the phraseology of Motteux. Now, Motteux, though he has frequently assumed too great a licence, both in adding to and retrenching from the ideas of his original, has upon the whole a very high degree of merit as a translator. In the adoption of corresponding idioms he has been eminently fortunate, and, as in these there is no great latitude, he has in general preoccupied the appropriated phrases; so that a succeeding translator, who proceeded on the rule of invariably rejecting his phraseology, must have, in general, altered for the worse. Such, I
+[Page 184]
+have said, was the rule laid down by Jarvis, and by his copist and improver, Smollet, who by thus absurdly rejecting what his own judgment and taste must have approved, has produced a composition decidedly inferior, on the whole, to that of Motteux. While I justify the opinion I have now given, by comparing several passages of both translations, I shall readily allow full credit to the performance of Smollet, where-ever I find that there is a real superiority to the work of his rival translator.
+After Don Quixote's unfortunate encounter with the Yanguesian carriers, in which the Knight, Sancho, and Rozinante, were all most grievously mauled, his faithful squire lays his master across his ass, and conducts him to the nearest
+[Page 185]
+inn, where a miserable bed is made up for him in a garret. Cervantes then proceeds as follows:
+En esta maldita cama se accostó Don Quixote: y luego la ventera y su hija le emplastaron de arriba abaxo, alumbrandoles Maritornes: que asi se llamaba la Asturiana. Y como al vizmalle, viese la ventera tan acardenalado á partes á Don Quixote, dixo que aquello mas parecian golpes que caida. No fuéron golpes, dixo Sancho, sino que la pena tenia muchos picos y tropezones, y que cada uno habia hecho su cardinal, y tambien le dixo: haga vuestra merced, sennora, de manera que queden algunas estopas, que no faltará quien las haya menester, que tambien me duelen á mi un poco los lomos. Desa manera, respondió la ventera, tambien debistes vos de caer? No cai, dico Sancho Panza,
+[Page 186]
+sino que del sobresalto que tome de ver caer á mi amo, de tal manera me duele á mi el cuerpo, que me parece que me ban dado mil palos.
+Translation by Motteux. “ In this ungracious bed was the Knight laid to rest his belaboured carcase; and presently the hostess and her daughter anointed and plastered him all over, while Maritornes, (for that was the name of the Asturian wench), held the candle. The hostess, while she greased him, wondering to see him so bruised all over, I fancy, said she, those bumps look much more like a dry beating than a fall. 'Twas no d y beating, mistress, I promise you, quoth Sancho; but the rock had I
+[Page 187]
+know not how many cragged ends and knobs, and every one of them gave my master a token of its kindness. And by the way, forsooth, continued he, I beseech you save a little of that same tow and ointment for me too, for I don't know what's the matter with my back, but I fancy I stand mainly in want of a little greasing too. What, I suppose you fell too, quoth the landlady. Not I, quoth Sancho, but the very fright that I took to see my master tumble down the rock, has so wrought upon my body, that I am as sore as if I had been sadly mawled.”
+Translation by Smollet. “ In this wretched bed Don Quixote having laid himself down, was anointed
+[Page 188]
+from head to foot by the good woman and her daughter, while Maritornes (that was the Asturian's name) stood hard by, holding a light. The landlady, in the course of her application, perceiving the Knight's whole body black and blue, observed, that those marks seemed rather the effects of drubbing than of a fall; but Sancho affirmed she was mistaken, and that the marks in question were occasioned by the knobs and corners of the rocks among which he fell. And now, I think of it, said he, pray, Madam, manage matters so as to leave a little of your ointment, for it will be needed, I'll assure you: my own loins are none of the soundest at present. What, did you fall too, said she? I can't say I did, answered the squire; but I was so infected
+[Page 189]
+by seeing my master tumble, that my whole body akes, as much as if I had been cudgelled without mercy.”
+Of these two translations, it will hardly be denied that Motteux's is both easier in point of style, and conveys more forcibly the humour of the dialogue in the original. A few contrasted phrases will shew clearly the superiority of the former.
+Motteux. “In this ungracious bed was the Knight laid to rest his belaboured carcase.”
+Smollet. “In this wretched bed Don Quixote having laid himself down.”
+[Page 190]
+Motteux. “While Maritornes (for that was the name of the Asturian wench) held the candle.”
+Smollet. “While Maritornes (that was the Asturian's name) stood hard by, holding a light.”
+Motteux. “The hostess, while she greased him.”
+Smollet. “The landlady, in the course of her application.”
+Motteux. “I fancy, said she, those bumps look much more like a dry beating than a fall.”
+Smollet. “Observed, that those marks seemed rather the effect of drubbing than of a fall.”
+[Page 191]
+Motteux. “'Twas no dry beating, mistress, I promise you, quoth Sancho.”
+Smollet. “But Sancho affirmed she was in a mistake.”
+Motteux. “And, by the way, forsooth, continued he, I beseech you save a little of that same tow and ointment for me; for I don't know what's the matter with my back, but I fancy I stand mainly in need of a little greasing too.”
+Smollet. “And now, I think of it, said he, pray, Madam, manage matters so as to leave a little of your ointment, for it will be needed, I'll assure you: my own loins are none of the soundest at present.”
+[Page 192]
+Motteux. “What, I suppose you fell too, quoth the landlady? Not I, quoth Sancho, but the very fright,” &c.
+Smollet. “What, did you fall too, said she? I can't say I did, answered the squire; but I was so infected, &c.
+There is notxs only more ease of expression and force of humour in Motteux's translation of the above passages than in Smollet's, but greater fidelity to the original. In one part, no fueron golpes , Smollet has improperly changed the first person for the third, or the colloquial style for the narrative, which materially weakens the spirit of the passage. Cada uno habia hecho su cardenal is most happily translated by Motteux, “every one of them gave him a token of its kindness;” but in Smollet's version,
+[Page 193]
+this spirited clause of the sentence evaporates altogether.— Algunas estopas is more faithfully rendered by Motteux than by Smollet. In the latter part of the passage, when the hostess jeeringly says to Sancho, Desa manera tambien debistes vos de caer ? the squire, impatient to wipe off that sly insinuation against the veracity of his story, hastily answers, No cai . To this Motteux has done ample justice, “Not I, quoth Sancho.” But Smollet, instead of the arch effrontery which the author meant to mark by this answer, gives a tame apologetic air to the squire's reply, “I can't say I did, answered the squire.” Don Quix. par. 1. cap. 16.
+Don Quixote and Sancho, travelling in the night through a desert valley, have their ears assailed at once by a combination
+[Page 194]
+of the most horrible sounds, the roaring of cataracts, clanking of chains, and loud strokes repeated at regular intervals; all which persuade the Knight, that his courage is immediately to be tried in a most perilous adventure. Under this impression, he felicitates himself on the immortal renown he is about to acquire, and, brandishing his lance, thus addresses Sancho, whose joints are quaking with affright:
+Asi que aprieta un poco las cinchas a Rocinante, y quédate a Dios, y asperame aqui hasta tres dias, no mas, en los quales si no volviere, puedes tú volverte á nuestra aldea, y desde alli, por hacerme merced y buena obra, irás al Toboso, donde dirás al incomparable sennora mia Dulcinea, que su cautivo
+[Page 195]
+caballero murió por acometer cosas, que le hiciesen digno de poder llamarse suyo. Don Quix. par. 1. cap. 20.
+Translation by Motteux. “ Come , girth Rozinante Straiter, and then Providence protect thee: Thou may'st stay for me here; but if I do not return in three days, go back to our village, and from thence, for my sake, to Toboso, where thou shalt say to my incomparable lady Dulcinea, that her faithful knight fell a sacrifice to love and honour, while he attempted things that might have made him worthy to be called her adorer.”
+Translation by Smollet.
+“ Therefore straiten Rozinante's girth, recommend thyself to God, and
+[Page 196]
+wait for me in this place, three days at farthest; within which time if I come not back, thou mayest return to our village, and, as the last favour and service done to me, go from thence to Toboso, and inform my incomparable mistress Dulcinea, that her captive knight died in attempting things that might render him worthy to be called her lover.”
+On comparing these two translations, that of Smollet appears to me to have better preserved the ludicrous solemnity of the original. This is particularly observable in the beginning of the sentence, where there is a most humorous association of two counsels very opposite in their nature, the recommending himself to God, and girding Rozinante. In
+[Page 197]
+the request, “and as the last favour and service done to me, go from thence to Toboso;” the translations of Smollet and Motteux are, perhaps, nearly equal in point of solemnity, but the simplicity of the original is better preserved by Smollet 29 .
+Sancho , after endeavouring in vain to dissuade his master from engaging in
+[Page 198]
+this perilous adventure, takes advantage of the darkness to tie Rozinante's legs together, and thus to prevent him from stirring from the spot; which being done, to divert the Knight's impatience under this supposed enchantment, he proceeds to tell him, in his usual strain of rustic buffoonery, a long story of a cock and a bull, which thus begins: “ Erase que se era, el bien que viniere para todos sea, y el mal para quien lo fuere á buscar; y advierta vuestra merced, sennor mio, que el principio que los antiguos dieron a sus consejas, no fue así como quiera, que fue una sentencia de Caton Zonzorino Romano que dice, y el mal para quien lo fueré á buscar .” Ibid.
+In this passage, the chief difficulties that occur to the translator are, first , the
+[Page 199]
+beginning, which seems to be a customary prologue to a nursery-tale among the Spaniards, which must therefore be translated by a corresponding phraseology in English; and secondly , the blunder of Caton Zonzorino . Both these are, I think, most happily hit off by Motteux. “In the days of yore, when it was as it was, good betide us all, and evil to him that evil seeks. And here, Sir, you are to take notice, that they of old did not begin their tales in an ordinary way; for 'twas a saying of a wise man, whom they call'd Cato the Roman Tonsor, that said, Evil to him that evil seeks.” Smollet thus translates the passage: “There was, so there was; the good that shall fall betide us all; and he that seeks evil may meet with the devil. Your worship may take notice,
+[Page 200]
+that the beginning of ancient tales is not just what came into the head of the teller: no, they always began with some saying of Cato, the censor of Rome, like this, of “He that seeks evil may meet with the devil.”
+The beginning of the story, thus translated, has neither any meaning in itself, nor does it resemble the usual preface of a foolish tale. Instead of Caton Zonzorino , a blunder which apologises for the mention of Cato by such an ignorant clown as Sancho, we find the blunder rectified by Smollet, and Cato dignified with his proper epithet of the Censor. This is a manifest impropriety in the last translator, for which no other cause can be assigned, than that his predecessor had preoccupied the blunder of Cato the Tonsor ,
+[Page 201]
+which, though not a translation of Zonzorino , (the purblind), was yet a very happy parallelism.
+In the course of the same cock-and-bull story, Sancho thus proceeds: “ Asi que, yendo dias y viniendo dias, el diablo que no duerme y que todo lo anasca, hizo de manera, que el amor quc el pastor tenia á su pastora se volviese en omecillo y mala voluntad, y la cause fué segun malas lenguas, una cierta cantidad de zelillos que ella le dió, tales que pasaban de la raya, y llegaban á lo vedado, y fue tanto lo que el pastor la aborreció de alli adelante, que por no verla se quiso ausentar de aquella tierra, é irse donde sus ojos no la viesen jamas: la Toralva, que se vió desdenada del Lope, luego le quiso bien mas que nunca le habia querido . Ibid.
+[Page 202]
+Translation by Motteux.
+“ Well , but, as you know, days come and go, and time and straw makes medlars ripe; so it happened, that after several days coming and going, the devil, who seldom lies dead in a ditch, but will have a finger in every pye, so brought it about, that the shepherd fell out with his sweetheart, insomuch that the love he bore her turned into dudgeon and ill-will; and the cause was, by report of some mischievous tale-carriers, that bore no good-will to either party, for that the shepherd thought her no better than she should be, a little loose i' the hilts, &c 30 .
+[Page 203]
+Thereupon being grievous in the dumps about it, and now bitterly hating her, he e'en resolved to leave that country to get out of her sight: for now, as every dog has his day, the wench perceiving he came no longer a suitering to her, but rather toss'd his nose at her and shunn'd her, she began to love him, and doat upon him like any thing.”
+I believe it will be allowed, that the above translation not only conveys the complete sense and spirit of the original, but that it greatly improves upon its humour. When Smollet came to translate this passage, he must have severely felt the hardship of that law he had imposed on himself, of invariably rejecting the expressions of Motteux, who had in this instance been eminently fortunate. It
+[Page 204]
+will not therefore surprise us, if we find the new translator to have here failed as remarkably as his predecessor has succeeded.
+Translation by Smollet.
+“ And so, in process of time, the devil, who never sleeps, but wants to have a finger in every pye , managed matters in such a manner, that the shepherd's love for the shepherdess was turned into malice and deadly hate: and the cause, according to evil tongues, was a certain quantity of small jealousies she gave him, exceeding all bounds of measure. And such was the abhorrence the shepherd conceived for her, that, in order to avoid the sight of her, he resolved to absent himself from his own country, and go where he should
+[Page 205]
+never set eyes on her again. Toralvo finding herself despised by Lope, began to love him more than ever.”
+Smollet , conscious that in the above passage Motteux had given the best possible free translation, and that he had supplanted him in the choice of corresponding idioms, seems to have piqued himself on a rigid adherence to the very letter of his original. The only English idiom, being a plagiarism from Motteux, “ wants to have a finger in every pye ,” seems to have been adopted from absolute necessity: the Spanish phrase would not bear a literal version, and no other idiom was to be found but that which Motteux had preoccupied.
+From an inflexible adherence to the
+[Page 206]
+same law, of invariably rejecting the phraseology of Motteux, we find in every page of this new translation numberless changes for the worse:
+Se que no mira de mal ojo á la mochacha.
+“I have observed he casts a sheep's eye at the wench.” Motteux.
+“I can perceive he has no dislike to the girl.” Smollet.
+Teresa me pusieron en el bautismo, nombre mondo y escueto, sin anadiduras, ni cortopizas, ni arrequives de Dones ni Donas.
+“I was christened plain Teresa, without any fiddle-faddle, or addition of Madam, or Your Ladyship.” Motteux.
+[Page 207]
+“Teresa was I christened, a bare and simple name, without the addition, garniture, and embroidery of Don or Donna.” Smollet.
+Sigue tu cuento, Sancho. “Go on with thy story, Sancho.” Motteux.
+“Follow thy story, Sancho.” Smollet.
+Yo confieso que he andado algo risueno en demasia.
+“I confess I carried the jest too far.” Motteux.
+“I see I have exceeded a little in my pleasantry.” Smollet.
+[Page 208]
+De mis viñas vengo, no se nada, no soy amigo de saber vidas agenas.
+“I never thrust my nose into other men's porridge; it's no bread and butter of mine: Every man for himself, and God for us all, say I.” Motteux.
+“I prune my own vine, and I know nothing about thine. I never meddle with other people's concerns.” Smollet.
+Y advierta que ya tengo edad para dar consejos. Quien bien tiene, y mal escoge, por bien que se enoja, no se venga.
+“Come, Master, I have hair enough in my beard to make a counsellor: he that will not when he may, when he will he shall have nay.” Motteux.
+[Page 209]
+“Take notice that I am of an age to give good counsels. He that hath good in his view, and yet will not evil eschew, his folly deserveth to rue.” Smollet . Rather than adopt the corresponding proverb given by Motteux, Smollet chuses, in this instance, and in many others, to make a proverb for himself, by giving a literal version of the original in a sort of doggrel rhime.
+Vive Roque, que es la señora nuestra ama mas ligera que un alcotan, y que puede ensenar al mas diestro Cordobes o Mexicano.
+“By the Lord Harry, quoth Sancho, our Lady Mistress is as nimble as an eel. Let me be hang'd, if I don't think she might teach the best jockey in Cordova or Mexico to mount ahorseback.” Motteux.
+[Page 210]
+“By St Roque, cried Sancho, my Lady Mistress is as light as a hawk 31 , and can teach the most dexterous horseman to ride.” Smollet.
+The chapter which treats of the puppet-show, is well translated both by Motteux and Smollet. But the discourse of the boy who explains the story of the piece, in Motteux's translation, appears somewhat more consonant to the phraseology commonly used on such occasions: —“Now, gentlemen, in the next place, mark that personage that peeps out there with a crown on his head, and a sceptre in his hand: That's the Emperor Charlemain.—Mind how the Emperor
+[Page 211]
+turns his back upon him.— Don't you see that Moor;—hear what a smack he gives on her sweet lips,— and see how she spits, and wipes her mouth with her white smock-sleeve. See how she takes on, and tears her hair for very madness, as if it was to blame for this affront.—Now mind what a din and hurly-burly there is.” Motteux . This jargon appears to me to be more characteristic of the speaker than the following: “And that personage who now appears with a crown on his head and a sceptre in his hand, is the Emperor Charlemagne.—Behold how the Emperor turns about and walks off.— Don't you see that Moor;—Now mind how he prints a kiss in the very middle of her lips, and with what eagerness she spits, and wipes them with the
+[Page 212]
+sleeve of her shift, lamenting aloud, and tearing for anger her beautiful hair, as if it had been guilty of the transgression 32 .”
+In the same scene of the puppet-show, the scraps of the old Moorish ballad are
+[Page 213]
+translated by Motteux with a corresponding naïveté of expression, which it seems to me impossible to exceed:
+Jugando está á las tablas Don Gayféros,
+Que ya de Melisendra está olvidado.
+“Now Gayferos the live-long day,
+Oh, errant shame! at draughts doth play;
+And, as at court most husbands do,
+Forgets his lady fair and true. Motteux.
+“Now Gayferos at tables playing,
+Of Melisendra thinks no more.” Smollet.
+Caballero, si á Francia ides,
+Por Gayséros preguntad.
+“Quoth Melisendra, if perchance,
+Sir Traveller, you go for France,
+For pity's sake, ask, when you're there,
+For Gayferos, my husband dear.” Motteux.
+“Sir Knight, if you to France do go,
+For Gayferos inquire.” Smollet.
+[Page 214]
+How miserably does the new translator sink in the above comparison! Yet Smollet was a good poet, and most of the verse translations interspersed through this work are executed with ability. It is on this head that Motteux has assumed to himself the greatest licence. He has very presumptuously mutilated the poetry of Cervantes, by leaving out many entire stanzas from the larger compositions, and suppressing some of the smaller altogether: Yet the translation of those parts which he has retained, is possessed of much poetical merit; and in particular, those verses which are of a graver cast, are, in my opinion, superior to those of his rival. The song in the first volume, which in the original is intitled Cancion de Grisóstomo , and which Motteux has intitled, The Despairing Lover , is
+[Page 215]
+greatly abridged by the suppression of more than one half of the stanzas in the original; but the translation, so far as it goes, is highly poetical. The translation of this song by Smollet, though inferior as a poem, is, perhaps, more valuable on the whole, because more complete. There is, however, only a single passage in which he maintains with Motteux a contest which is nearly equal:
+O thou, whose cruelty and hate,
+The tortures of my breast proclaim,
+Behold, how willingly to fate
+I offer this devoted frame.
+If thou, when I am past all pain,
+Shouldst think my fall deserves a tear,
+Let not one single drop distain
+Those eyes, so killing and so clear.
+No! rather let thy mirth display
+The joys that in thy bosom flow:
+Ah! need I bid that heart be gay,
+Which always triumph'd in my woe. Smollet.
+[Page 216]
+It will be allowed that there is much merit in these lines, and that the last stanza in particular is eminently beautiful and delicate. Yet there is in my opinion an equal vein of poetry, and more passion, in the corresponding verses of Motteux:
+O thou, by whose destructive hate
+I'm hurry'd to this doleful fate,
+   When I'm no more, thy pity spare!
+I dread thy tears; oh, spare them then—
+But, oh! I rave, I was too vain—
+   My death can never cost a tear! Motteux.
+In the song of Cardenio, there is a happy combination of tenderness of expression with ingenious thought; the versification is likewise of a peculiar structure, the second line forming an echo to the first. This song has been
+[Page 217]
+translated in a corresponding measure both by Motteux and Smollet; but by the latter with far inferior merit.
+CANCION De CARDENIO. I.
+Quien menoscaba mis bienes?
+                                         Desdenes.
+Y quien aumenta mis duelos?
+                                         Los zelos.
+Y quien prueba mi paciencia?
+                                         Ausencia.
+De ese modo en mi dolencia
+Ningun remedio se alcanza
+Pues me matan la esperanza
+Desdenes, Zelos y Ausencia.
+II.
+Quien me causa este dolor?
+                                         Amor.
+Y quien mi gloria repuna?
+                                         Fortuna.
+Y quien consiente mi duelo?
+                                         El Cielo.
+[Page 218]
+De ese modo yo rezelo,
+Morir deste mal extrano
+Pues se aunan en mi dano
+Amor, Fortuna y el Cielo.
+III.
+Quien mejorará mi suerte?
+                                         La Muerte.
+Y el bien de amor, quien le alcanza?
+                                         Mudanza.
+Y sus males quien los cura?
+                                         Locura.
+De ese modo no es cordura
+Querer curar la pasion;
+Quando los remedios son
+Muerte, Mudanza, y Locura.
+CARDENIO's SONG, by Motteux. I.
+What makes me languish and complain?
+                                         O, ' tis Disdain !
+What yet more fiercely tortures me?
+                                         'Tis jealousy.
+How have I my patience lost?
+                                         By Absence crost.
+[Page 219]
+Then Hope, farewell, there's no relief;
+I sink beneath oppressing grief;
+Nor can a wretch, without despair,
+Scorn, Jealousy , and Absence , bear.
+II.
+What in my breast this anguish drove?
+                                         Intruding Love.
+Who could such mighty ills create?
+                                         Blind Fortune's hate.
+What cruel powers my fate approve?
+                                         The Powers above.
+Then let me bear, and cease to moan;
+'Tis glorious thus to be undone:
+When these invade, who dares oppose?
+Heaven, Love , and Fortune are my foes.
+III.
+Where shall I find a speedy cure,
+                                         Oh! Death is sure.
+No milder means to set me free?
+                                         Inconstancy.
+Can nothing else my pains assuage?
+                                         Distracting rage.
+What, die or change? Lucinda lose?
+O let me rather madness chuse!
+But judge, ye gods, what we endure,
+When death or madness are a cure!
+[Page 220]
+In the last four lines, Motteux has used more liberty with the thought of the original than is allowable for a translator. It must be owned, however, that he has much improved it.
+CARDENIO's SONG, by Smollet. I.
+Ah! what inspires my woful strain?
+                                         Unkind Disdain!
+Ah! what augments my misery?
+                                         Fell Jealousy!
+Or say what hath my patience worn?
+                                         An absent lover's scorn!
+The torments then that I endure
+No mortal remedy can cure:
+For every languid hope is slain
+By Absence, Jealousy, Disdain.
+II.
+From Love, my unrelenting foe,
+                                         These sorrows flow:
+My infant glory's overthrown
+                                         By Fortune's frown.
+[Page 221]
+Confirm'd in this my wretched state
+                                         By the decrees of Fate,
+In death alone I hope release
+From this compounded dire disease,
+Whose cruel pangs to aggravate,
+Fortune and Love conspire with Fate!
+III.
+Ah! what will mitigate my doom?
+                                         The silent tomb.
+Ah! what retrieve departed joy?
+                                         Inconstancy!
+Or say, can ought but frenzy bear
+                                         This tempest of despair!
+All other efforts then are vain
+To cure this soul-tormenting pain,
+That owns no other remedy
+Than madness, death, inconstancy.
+“The torments then that I endure— no mortal remedy can cure.” Who ever heard of a mortal remedy? or who could expect to be cured by it? In the next line, the epithet of languid is injudiciously
+[Page 222]
+given to Hope in this place; for a languid or a languishing hope was already dying, and needed not so powerful a host of murderers to slay it, as Absence, Jealousy, and Disdain.—In short, the latter translation appears to me to be on the whole of much inferior merit to the former. I have remarked, that Motteux excels his rival chiefly in the translation of those poems that are of a graver cast. But perhaps he is censurable for having thrown too much gravity into the poems that are interspersed in this work, as Smollet is blameable on the opposite account, of having given them too much the air of burlesque. In the song which Don Quixote composed while he was doing penance in the Sierra-Morena , beginning Arboles, Yerbas y Plantas , every stanza of which ends with Del Toboso , the
+[Page 223]
+author intended, that the composition should be quite characteristic of its author, a ludicrous compound of gravity and absurdity. In the translation of Motteux there is perhaps too much gravity; but Smollet has rendered the composition altogether burlesque. The same remark is applicable to the song of Antonio, beginning Yo sé, Olalla, que me adoras , and to many of the other poems.
+On the whole, I am inclined to think, that the version of Motteux is by far the best we have yet seen of the Novel of Cervantes; and that if corrected in its licentious abbreviations and enlargements, and in some other particulars which I have noticed in the course of this comparison, we should have nothing to desire superior to it in the way of translation.
+[Page 224]
+CHAP. XIII.
+The Genius of the Translator should be akin to that of the original Author.—The best Translators have shone in original Composition of the same Species with that which they have translated.—Of Voltaire's Translations from Shakespeare.— Of the peculiar Character of the Wit of Voltaire.—His Translation from Hudibras. —Excellent anonymous French Translation of Hudibras.—Translation of Rabelais by Urquhart and Motteux.
+From the consideration of those general rules of translation which in the foregoing essay I have endeavoured
+[Page 225]
+to illustrate, it will appear no unnatural conclusion to assert, that he only is perfectly accomplished for the duty of a translator who possesses a genius akin to that of the original author. I do not mean to carry this proposition so far as to affirm, that in order to give a perfect translation of the works of Cicero, a man must actually be as great an orator, or inherit the same extent of philosophical genius; but he must have a mind capable of discerning the full merits of his original, of attending with an acute perception to the whole of his reasoning, and of entering with warmth and energy of feeling into all the beauties of his composition. Thus we shall observe invariably, that the best translators have been those writers who have composed original works of the same species with those
+[Page 226]
+which they have translated. The mutilated version which yet remains to us of the Timæus of Plato translated by Cicero, is a masterly composition, which, in the opinion of the best judges, rivals the merit of the original. A similar commendation cannot be bestowed on those fragments of the Phænomena of Aratus translated into verse by the same author; for Cicero's poetical talents were not remarkable: but who can entertain a doubt, that had time spared to us his versions of the orations of Demosthenes and Æschines, we should have found them possessed of the most transcendent merit?
+We have observed, in the preceding part of this essay, that poetical translation is less subjected to restraint than prose translation, and allows more of the freedom
+[Page 227]
+or original composition. It will hence follow, that to exercise this freedom with propriety, a translator must have the talent of original composition in poetry; and therefore, that in this species of translation, the possession of a genius akin to that of his author, is more essentially necessary than in any other. We know the remark of Denham, that the subtle spirit of poesy evaporates entirely in the transfusion from one language into another, and that unless a new, or an original spirit, is infused by the translator himself, there will remain nothing but a caput mortuum . The best translators of poetry, therefore, have been those who have approved their talents in original poetical composition. Dryden, Pope, Addison, Rowe, Tickell, Pitt, Warton, Mason, and Murphy, rank
+[Page 228]
+equally high in the list of original poets, as in that of the translators of poetry.
+But as poetical composition is various in its kind, and the characters of the different species of poetry are extremely distinct, and often opposite in their nature, it is very evident that the possession of talents adequate to one species of translation, as to one species of original poetry, will not infer the capacity of excelling in other species of which the character is different. Still further, it may be observed, that as there are certain species of poetical composition, as, for example, the dramatic, which, though of the same general character in all nations, will take a strong tincture of difference from the manners of a country, or the peculiar genius of a people; so it will be found,
+[Page 229]
+that a poet, eminent as an original author in his own country, may fail remarkably in attempting to convey, by a translation, an idea of the merits of a foreign work which is tinctured by the national genius of the country which produced it. Of this we have a striking example in those translations from Shakespeare by Voltaire; in which the French poet, great himself in dramatical composition, intended to convey to his countrymen a just idea of our most celebrated author in the same department. But Shakespeare and Voltaire, though perhaps akin to each other in some of the great features of the mind, were widely distinguished even by nature, in the characters of their poetical genius; and this natural distinction was still more sensibly encreased by the general tone of manners, the hue and
+[Page 230]
+fashion of thought of their respective countries. Voltaire, in his essay sur la Tragédie Angloise , has chosen the famous soliloquy in the tragedy of Hamlet, “ To be, or not to be ,” as one of those striking passages which best exemplify the genius of Shakespeare, and which, in the words of the French author, demandent grace pour toutes ses fautes . It may therefore be presumed, that the translator in this instance endeavoured, as far as lay in his power, not only to adopt the spirit of his author, but to represent him as favourably as possible to his countrymen. Yet, how wonderfully has he metamorphosed, how miserably disfigured him! In the original, we have the perfect picture of a mind deeply agitated, giving vent to its feelings in broken starts of utterance, and in language which plainly
+[Page 231]
+indicates, that the speaker is reasoning solely with his own mind, and not with any auditor. In the translation, we have a formal and connected harangue, in which it would appear, that the author, offended with the abrupt manner of the original, and judging those irregular starts of expression to be unsuitable to that precision which is required in abstract reasoning, has corrected, as he thought, those defects of the original, and given union, strength, and precision, to this philosophical argument.
+Demeure, il faut choisir, et passer à l'instant
+De la vie à la mort, ou de l'être au néant.
+Dieux justes, s'il en est, éclairez mon courage.
+Faut-il vieillir courbé sous la main qui m'outrage,
+Supporter, ou finir mon malheur et mon sort?
+Que suis-je? qui m'arrêCte? et qu' est que la mort?
+[Page 232]
+C'est la sin de nos maux, c'est mon unique azile;
+Après de longs transports, c'est un sommeil tranquile.
+On s'endort et tout meurt; mais un affreux reveil,
+Doit succéder peutêtre aux douceurs du sommeil.
+On nous menace; on dit que cette courte vie
+De tourmens éternels est aussitôt suivie.
+O mort! moment fatale! affreuse éternité!
+Tout cœur à ton seul nom se glace épouvanté.
+Eh! qui pourrait sans toi supporter cette vie?
+De nos prêtres menteurs bénir l'hypocrisie?
+D'une indigne maitresse encenser les erreurs?
+Ramper sous un ministre, adorer ses hauteurs?
+Et montrer les langueurs de son âme abattue,
+A des amis ingrats qui detournent la vue?
+La mort serait trop douce en ces extrémites.
+Mais le scrupule parle, et nous crie, arrêtez.
+Il défend à nos mains cet heureux homicide,
+Et d'un héros guerrier, fait un Chrétien timide 33
+[Page 233]
+Besides the general fault already noticed, of substituting formal and connected reasoning, to the desultory range
+[Page 234]
+of thought and abrupt transitions of the original, Voltaire has in this passage, by the looseness of his paraphrase, allowed some of the most striking beauties, both of the thought and expression, entirely to escape; while he has superadded, with unpardonable licence, several ideas of his own, not only unconnected with the original, but dissonant to the general tenor of the speaker's thoughts. Adopting Voltaire's own style of criticism on the translations of the Abbé des Fontaines, we may ask him, “Where do we find in this translation of Hamlet's soliloquy
+The slings and arrows of outrageous fortune—
+To take arms against a sea of trouble---
+The heart-ache, and the thousand natural shocks
+That flesh is heir to---
+—Perchance to dream; ay, there's the rub---
+The whips and scorns of time---
+[Page 235]
+The law's delay, the insolence of office---
+The spurns—that patient merit from th' unworthy
+thy takes---
+That undiscover'd country, from whose bourn
+No traveller returns---?”
+Can Voltaire, who has omitted in this short passage all the above striking peculiarities of thought and expression, be said to have given a translation from Shakespeare?
+But in return for what he has retrenched from his author, he has made a liberal addition of several new and original ideas of his own. Hamlet, whose character in Shakespeare exhibits the strongest impressions of religion, who feels these impressions even to a degree of superstition, which influences his conduct in the most important exigences,
+[Page 236]
+and renders him weak and irresolute, appears in Mr Voltaire's translation a thorough sceptic and freethinker. In the course of a few lines, he expresses his doubt of the existence of a God; he treats the priests as liars and hypocrites, and the Christian religion as a system which debases human nature, and makes a coward of a hero:
+Dieux justes! S'il en est---
+De nos prêtres menteurs bénir l'hypocrisie---
+Et d'un héros guerrier, fait un Chrêtien timide—
+Now , who gave Mr Voltaire a right thus to transmute the pious and superstitious Hamlet into a modern philosophe and Esprit fort ? Whether the French author meant by this transmutation to convey to his countrymen a favourable idea of our English bard, we cannot pretend
+[Page 237]
+to say; but we may at least affirm, that he has not conveyed a just one 34
+But what has prevented the translator, who professes that he wished to give a just idea of the merits of his original, from accomplishing what he wished? Not ignorance of the language; for Voltaire, though no great critic in the English tongue, had yet a competent knowledge of it; and the change he has put upon the reader was not involuntary, or the effect of ignorance. Neither was it the want of genius, or of poetical talents; for Voltaire is certainly one of
+[Page 238]
+the best poets, and one of the greatest ornaments of the drama. But it was the original difference of his genius and that of Shakespeare, increased by the general opposition of the national character of the French and English. His mind, accustomed to connect all ideas of dramatic sublimity or beauty with regular design and perfect symmetry of composition, could not appretiate this union of the great and beautiful with irregularity of structure and partial disproportion. He was capable indeed of discerning some features of majesty in this colossal statue; but the rudeness of the parts, and the want of polish in the whole figure, prevailed over the general impression of its grandeur, and presented it altogether to his eye as a monstrous production.
+[Page 239]
+The genius of Voltaire was more akin to that of Dryden, of Waller, of Addison, and of Pope, than to that of Shakespeare: he has therefore succeeded much better in the translations he has given of particular passages from these poets, than in those he has attempted from our great master of the drama.
+Voltaire possessed a large share of wit; but it is of a species peculiar to himself, and which I think has never yet been analysed. It appears to me to be the result of acute philosophical talents, a strong spirit of satire, and a most brilliant imagination. As all wit consists in unexpected combinations, the singular union of a philosophic thought with a lively fancy, which is a very uncommon association, seems in general to be
+[Page 240]
+the basis of the wit of Voltaire. It is of a very different species from that wit which is associated with humour, which is exercised in presenting odd, extravagant, but natural views of human character, and which forms the essence of ludicrous composition. The novels of Voltaire have no other scope than to illustrate certain philosophical doctrines, or to expose certain philosophical errors; they are not pictures of life or of manners; and the persons which figure in them are pure creatures of the imagination, fictitious beings, who have nothing of nature in their composition, and who neither act nor reason like the ordinary race of men. Voltaire, then, with a great deal of wit, seems to have had no talent for humorous composition. Now if such is the character of his original genius, we may
+[Page 241]
+presume, that he was not capable of justly appretiating in the compositions of others what he did not possess himself. We may likewise fairly conclude, that he should fail in attempting to convey by a translation a just idea of the merits of a work, of which one of the main ingredients is that quality in which he was himself deficient. Of this I proceed to give a strong example.
+In the poem of Hudibras , we have a remarkable combination of Wit with Humour; nor is it easy to say which of these qualities chiefly predominates in the composition. A proof that humour forms a most capital ingredient is, that the inimitable Hogarth has told the whole story of the poem in a series of characteristic prints: now painting is completely adequate
+[Page 242]
+to the representation of humour, but can convey no idea of wit. Of this singular poem, Voltaire has attempted to give a specimen to his countrymen by a translation; but in this experiment he says he has found it necessary to concentrate the first four hundred lines into little more than eighty of the translation 35 The truth is, that, either insensible of that part of the merit of the original, or conscious of his own inability to give a just idea of it, he has left out all that constitutes the humour of the painting, and attached himself solely to the wit of the composition. In the original,
+[Page 243]
+we have a description of the figure, dress, and accoutrements of Sir Hudibras, which is highly humorous, and which conveys to the imagination as complete a picture as is given by the characteristic etchings of Hogarth. In the translation of Voltaire, all that we learn of those particulars which paint the hero, is, that he wore mustachios, and rode with a pair of pistols.
+Even the wit of the original, in passing through the alembic of Voltaire, has changed in a great measure its nature, and assimilated itself to that which is peculiar to the translator. The wit of Butler is more concentrated, more pointed, and is announced in fewer words, than the wit of Voltaire. The translator, therefore, though he pretends to have
+[Page 244]
+abridged four hundred verses into eighty, has in truth effected this by the retrenchment of the wit of his original, and not by the concentration of it: for when we compare any particular passage or point, we find there is more diffusion in the translation than in the original. Thus, Butler says,
+The difference was so small, his brain
+Outweigh'd his rage but half a grain;
+Which made some take him for a tool
+That knaves do work with, call'd a fool.
+Thus amplified by Voltaire, and at the same time imperfectly translated.
+Mais malgré sa grande eloquence,
+Et son merite, et sa prudence,
+Il passa chez quelques savans
+Pour être un de ces instrumens
+Dont les fripons avec adresse
+Savent user sans dire mot,
+[Page 245]
+Et qu' ils tournent avec souplesse;
+Cet instrument s' appelle un sot.
+Thus likewise the famous simile of Taliacotius, loses, by the amplification of the translator, a great portion of its spirit.
+So learned Taliacotius from
+The brawny part of porter's bum
+Cut supplemental noses, which
+Would last as long as parent breech;
+But, when the date of nock was out,
+Off dropt the sympathetic snout.
+Ainsi Taliacotius,
+Grand Esculape d'Etrurie,
+Répara tous les nez perdus
+Par une nouvelle industrie:
+Il vous prenoit adroitement
+Un morceau du cu d'un pauvre homme,
+L'appliquoit au nez proprement;
+Enfin il arrivait qu' en somme,
+[Page 246]
+Tout juste à la mort du prêteur
+Tombait le nez de l'emprunteur,
+Et souvent dans la meme bière,
+Par justice et par bon accord,
+On remettait au gré du mort
+Le nez auprès de son derriere.
+It will be allowed, that notwithstanding the supplemental witticism of the translator, contained in the last four lines, the simile loses, upon the whole, very greatly by its diffusion. The following anonymous Latin version of this simile is possessed of much higher merit, as, with equal brevity of expression, it conveys the whole spirit of the original.
+Sic adscititios nasos de clune torosi
+Vectoris doctâ secuit Talicotius arte,
+Qui potuere parem durando æquare parentem:
+At postquam fate clunis computruit, ipsum
+Unâ sympathicum cœpit tabescere rostrum.
+[Page 247]
+With these translations may be compared the following, which is taken from a complete version of the poem of Hudibras, a very remarkable work, with the merits of which (as the book is less known than it deserves to be) I am glad to have this opportunity of making the English reader acquainted:
+Ainsi Talicot d'une fesse
+Savoit tailler avec addresse
+Nez tous neufs, qui ne risquoient rien
+Tant que le cul se portoit bien;
+Mais si le cul perdoit la vie,
+Le nez tomboit par sympathie.
+In one circumstance of this passage, no translation can come up to the original: it is in that additional pleasantry which results from the structure of the verses, the first line ending most unexpectedly with a preposition, and the third
+[Page 248]
+with a pronoun, both which are the rhyming syllables in the two couplets:
+So learned Taliacotius from , &c.
+Cut supplemental noses, which , &c.
+It was evidently impossible to imitate this in a translation; but setting this circumstance aside, the merit of the latter French version seems to me to approach very near to that of the original.
+The author of this translation of the poem of Hudibras, evidently a man of superior abilities, appears to have been endowed with an uncommon share of modesty. He presents his work to the public with the utmost diffidence; and, in a short preface, humbly deprecates its censure for the presumption that may be imputed to him, in attempting that
+[Page 249]
+which the celebrated Voltaire had declared to be one of the most difficult of talks. Yet this talk he has executed in a very masterly manner. A few specimens will shew the high merit of this work, and clearly evince, that the translator possessed that essential requisite for his undertaking, a kindred genius with that of his great original.
+The religion of Hudibras is thus described:
+For his religion, it was fit
+To match his learning and his wit:
+'Twas Presbyterian true blue;
+For he was of that stubborn crew
+Of errant saints, whom all men grant
+To be the true church-militant:
+Such as do build their faith upon
+The holy text of pike and gun;
+Decide all controversies by
+Infallible artillery;
+[Page 250]
+And prove their doctrine orthodox,
+By apostolic blows and knocks. Canto 1.
+Sa réligion au genie
+Et sçavoir étoit assortie;
+Il étoit franc Presbyterien,
+Et de sa secte le soutien,
+Secte, qui justement se vante
+D'être l'Eglise militante;
+Qui de sa foi vous rend raison
+Par la bouche de son canon,
+Dont le boulet et feu terrible
+Montre bien qu'elle est infallible,
+Et sa doctrine prouve à tous
+Orthodoxe, à force de coups.
+In the following passage, the arch ratiocination of the original is happily rivalled in the translation:
+For Hudibras wore but one spur,
+As wisely knowing could he stir
+To active trot one side of's horse,
+The other would not hang an a—se.
+[Page 251]
+Car Hudibras avec raison
+Ne se chaussoit qu'un éperon,
+Ayant preuve démonstrative
+Qu'un coté marchant, l'autre arrive.
+The language of Sir Hudibras is described as a strange jargon, compounded of English, Greek, and Latin,
+Which made some think when he did gabble,
+They'd heard three labourers of Babel,
+Or Cerberus himself pronounce
+A leash of languages at once.
+It was difficult to do justice in the translation to the metaphor of Cerberus, by translating leash of languages : This, however, is very happily effected by a parallel witticism:
+Ce qui pouvoit bien faire accroire
+Quand il parloit à l'auditoire,
+[Page 252]
+D'entendre encore le bruit mortel
+De trois ouvriers de Babel,
+Ou Cerbere aux ames errantes
+Japper trois langues différentes.
+The wit of the following passage is completely transfused, perhaps even heightened in the translation:
+For he by geometric scale
+Could take the size of pots of ale;
+Resolve by sines and tangents straight
+If bread or butter wanted weight;
+And wisely tell what hour o'th' day
+The clock does strike, by algebra.
+En geometre raffiné
+Un pot de bierre il eut jaugé;
+Par tangente et sinus sur l'heure
+Trouvé le poids de pain ou beurre,
+Et par algebre eut dit aussi
+A quelle heure il sonne midi.
+[Page 253]
+The last specimen I shall give from this work, is Hudibras's consultation with the lawyer, in which the Knight proposes to prosecute Sidrophel in an action of battery:
+Quoth he, there is one Sidrophel
+Whom I have cudgell'd—“Very well.”—
+And now he brags t'have beaten me.—
+“Better and better still, quoth he.”—
+And vows to stick me to the wall
+Where'er he meets me—“Best of all.”—
+'Tis true, the knave has taken's oath
+That I robb'd him—“Well done, in troth.”—
+When h' has confess'd he stole my cloak,
+And pick'd my fob, and what he took,
+Which was the cause that made me bang him
+And take my goods again—“Marry, hang him.”
+---“Sir,” quoth the lawyer, “not to flatter ye,
+You have as good and fair a battery
+As heart can wish, and need not shame
+The proudest man alive to claim:
+[Page 254]
+For if they've us'd you as you say;
+Marry, quoth I, God give you joy:
+I would it were my case, I'd give
+More than I'll say, or you believe.”
+Il est, dit-il, de par le monde
+Un Sidrophel, que Dieu confonde,
+Que j'ai rossé des mieux.—“Fort bien”—
+Et maintenant il dit, le chien,
+Qu'il m'a battu.—“Bien mieux encore.”—
+Et jure, afin qu'on ne l'ignore,
+Que s'il me trouve il me tuera—
+“Le meilleur de tout le voila”—
+Il est vrai que ce misérable
+A fait serment au préalable
+Que moi je l'ai dévalisé—
+“C'est fort bien fait, en verité”—
+Tandis que lui-meme il confesse,
+Qu'il m'a volé dans une presse
+Mon manteau, mon gousset vuidé;
+Et c'est pourquoi je l'ai rossé;
+Puis mes effets j'ai sçu reprendre—
+“Oui da,” dit-il, “il faut le pendre.”—
+[Page 255]
+—Dit l'avocat, “sans flatterie,
+Vous avez, Monsieur, batterie
+Aussi bonne qu'on puisse avoir;
+Vous devez vous en prévaloir.
+S'ils vous ont traité de la sorte,
+Comme votre recit le porte,
+Je vous en fais mon compliment;
+Je voudrois pour bien de l'argent,
+Et plus que vous ne sauriez croire,
+Qu'il m'arrivât pareille histoire.”
+These specimens are sufficient to shew how completely this translator has entered into the spirit of his original, and has thus succeeded in conveying a very perfect idea to his countrymen of one of those works which are most strongly tinctured with the peculiarities of national character, and which therefore required a singular coincidence of the
+[Page 256]
+talents of the translator with those of the original author.
+If the English can boast of any parallel to this, in a version from the French, where the translator has given equal proof of a kindred genius to that of his original, and has as successfully accomplished a task of equal difficulty, it is in the translation of Rabelais , begun by Sr Thomas Urquhart, and finished by Mr Motteux, and lastly, revised and corrected by Mr Ozell. The difficulty of translating this work, arises less from its obsolete style, than from a phraseology peculiar to the author, which he seems to have purposely rendered obscure, in order to conceal that satire which he levels both against the civil
+[Page 257]
+government and the ecclesiastical policy of his country. Such is the studied obscurity of this satire, that but a very few of the most learned and acute among his own countrymen have professed to understand Rabelais in the original. The history of the English translation of this work, is in itself a proof of its very high merit. The three first books were translated by Sir Thomas Urquhart, but only two of them were published in his lifetime. Mr Motteux, a Frenchman by birth, but whose long residence in England had given him an equal command of both languages, republished the work of Urquhart, and added the remaining three books translated by himself. In this publication he allows the excellence of
+[Page 258]
+the work of his predecssor, whom he declares to have been a complete master of the French language, and to have possessed both learning and fancy equal to the task he undertook. He adds, that he has preserved in his translation “the very style and air of his original;” and finally, “that the English readers may now understand that author better in their own tongue, than many of the French can do in theirs.” The work thus completed in English, was taken up by Mr Ozell, a person of considerable literary abilities, and who possessed an uncommon knowledge both of the ancient and modern languages. Of the merits of the translation none could be a better judge, and to these he has given the strongest testimony, by adopting it entirely in his
+[Page 259]
+new edition, and limiting his own undertaking solely to the correction of the text of Urquhart and Motteux, to which he has added a translation of the notes of M. Du Chat, who spent, as Mr Ozell informs us, forty years in composing annotations on the original work. The English version of Rabelais thus improved, may be considered, in its present form, as one of the most perfect specimens of the art of translation. The best critics in both languages have borne testimony to its faithful transfusion of the sense, and happy imitation of the style of the original; and every English reader will acknowledge, that it possesses all the ease of original composition. If I have forborne to illustrate any of the rules or precepts of the preceding Essay
+[Page 260]
+from this work, my reasons were, that obscurity I have already noticed, which rendered it less fit for the purpose of such illustration, and that strong tincture of licentiousness which characterises the whole work.
+THE END.
+NOTES
+1 Vertere Græca in Latinum, veteres nostri oratores optimum judicabant. Id se Lucius Crassus, in illis Ciceronis de oratore libris, dicit factitasse. Id Cicero suâ ipse personâ frequentissimè præcipit. Quin etiam libros Platonis atque Xenophontis edidit, hoc genere translatos. Id Messalæ placuit, multæque sunt ab eo scriptæ ad hunc modum orationes. Quinctil. Inst. Orat. l. 10. c. 5. Utile imprimis, ut multi præcipiunt, vel ex Græco in Latinum, vel ex Latino vertere in Græcum: quo genere exercitationis, proprietas splendorque verborum, copia figurarum, vis explicandi, præterea imitatione optimorum, similia inveniendi facultas paratur: simul quæ legentem fefellissent, transferentem fugere non possunt. Plin. Epist. l. 7. Ep. 7.
+2 There remain of Cicero's translations some fragments of the OEconomics of Xenophon, the Timæus of Plato, and part of a poetical version of the Phenomena of Aratus.
+3 The rules laid down by Batteux are moreover chiefly applicable to translation from the Latin into French, and are deduced from the comparative analogy of these two languages alone. Founding upon this principle, that the construction of the Latin and French is very nearly the same, and that the latter never deviates from the former, but where either perspicuity of sense or harmony requires, he proceeds to lay down such rules as the following: That the periods of the translation should accord in all their parts with those of the original—that their order, and even their length, should be the same—that all conjunctions should be scrupulously preserved, as being the joints or articulations of the members—that all adverbs should be ranged next to the verb, &c. Observations of this nature may instruct a Tiro in grammar; but it is evident they will conduce nothing towards the improvement of the art of translation.
+4 Batteux de la Construction Oratoire, Par. 2. ch. 4.
+5 Memoires militaires de M. Guischardt.
+6 Mr Gordon, who had great critical knowledge of the Latin language, has translated the words ad tempus “in pressing emergencies.” This sense is, therefore, probably warranted by good authorities. But it is evidently not the sense of the author in this passage, as the context indicates, to which Mr Gordon has not sufficiently attended.
+7 One of the best passages of Fanshaw's translation of the Pastor Fido, is the celebrated apostrophe to the spring. Spring, the year's youth, fair mother of new flowers, New leaves, new loves, drawn by the winged hours, Thou art return'd; but the felicity Thou brought'st me last is not return'd with thee. Thou art return'd; but nought returns with thee, Save my lost joy's regretful memory. Thou art the self-same thing thou wert before, As fair and jocund: but I am no more The thing I was, so gracious in her sight, Who is heaven's masterpiece and earth's delight. O bitter sweets of love! far worse it is To loss than never to have tasted bliss. O Primavera gioventu del anno, Bella madre di fiori, D'herbe novelle, e di novelli amori; Tu torni ben, ma teco, Non tornano i sereni E fortunati di de le mie gioie! Tu torni ben, tu torni, Ma teco altro non torna Che del perduto mio caro tesoro La rimembranza misera e dolente. Tu quella se' tu quella, Ch'eri pur dianzi si vezzosa e bella. Ma non son io già quel ch'un tempo fui, Si caro a gli occhi altrui. O dolcezze amarissime d'amore! Quanto è più duro perdervi, che mai Non v'haver ò provate, ò possedute! Pastor Fido, act 3. sc. 1. In those parts of the English version which are marked in Italics, there is some attempt towards a freedom of translation; but it is a freedom of which Sandys had long before given many happier specimens.
+8 A similar instance of good taste occurs in the following translation of an epigram of Martial, where the indelicacy of the original is admirably corrected, and the sense at the same time is perfectly preserved: Vis fieri liber? mentiris, Maxime, non vis:    Sed fieri si vis, bac ratione potes. Liber eris, cænare foris si, Maxime, nolis:    Veientana tuam si domat uva sitim: Si ridere potes miseri Chrysendeta Cinnæ:    Contentus nostrâ si potes esse togâ. Si plebeia Venus gemino tibi vincitur asse:    Si tua non rectus tecta subire potes: Hæc tibi si vis est, si mentis tanta potestas,    Liberior Partho vivere rege potes.Mart. lib. 2. ep. 53.    Non, d'etre libre, cher Paulin, Vous n'avez jamais eu l'envie; Entre nous, votre train de vie N'en est point du tout le chemin.    Il vous faut grand'chere, bon vin, Grand jeu, nombreuse compagnie, Maitresse fringante et jolie, Et robe du drap le plus fin.    Il faudroit aimer, au contraire, Vin commun, petit ordinaire, Habit simple, un ou deux amis; Jamais de jeu, point d'Amarante: Voyez si le parti vous tente, La liberté n'est qu' à ce prix.
+9 Fitzosborne's Letters, l. 19.
+10 Fitzosborne's Letters, 43.
+11 Lond. 1691.
+12 The Orations of M. T. Cicero translated into English, with notes historical and critical. Dublin, 1766.
+13 Eachard has here mistaken the author's sense. He ought to have said, “o' my conscience, this night is “twice as long as that was.”
+14 Hor. Donec gratus eram tibi,    Nec quisquam potior brachia candidæ Cervici juvenis dabat;    Persarum vigui rege beatior. Lyd. Donec non aliam magis    Arsisti, neque erat Lydia post Chloen; Multi Lydia nominis    Romanâ vigui clarior Iliâ. Hor. Me nunc Thressa Chloe regit,    Dulceis docta modos, et citharæ sciens: Pro qua non metuam mori,    Si parcent animæ sata superstiti. Lyd. Me torret face mutuâ    Thurini Calais filius Ornithi; Pro quo bis patiar mori,    Si parcent puero fata superstiti. Hor. Quid, si prisca redit Venus,    Diductosque jugo cogit aheneo? Si flava excutitur Chloe,    Rejectæque patet janua Lydiæ? Lyd. Quamquam sidere pulchrior    Ille est, tu levior cortice, et improbo Iracundior Hadriâ;    Tecum vivere amem, tecum obeam libens. Hor. 1. 3. Od. 9.
+15 Hujus (viz.Aristidis) pictura est, oppido capto, ad matris morientis e vulnere mammam adrepens infans; intelligiturque sentire mater et timere, ne emortuo lacte sanguinem infans lambat. Plin. Nat. Hist 1.35.c.10.—If the epigram was made on the subject of this picture, Pliny's idea of the expression of the painting is somewhat more refined than that of the epigrammatist, though certainly not so natural. As a complicated feeling can never be clearly expressed in painting, it is not improbable that the same picture should have suggested ideas somewhat different to different observers.
+16 Observer, vol. 4. p. 115. and vol. 5. p. 145.
+17 The original of the fragment of Timocles: Ω ταν, ἂχουσον ην τι σοι μέλλω λέγΕιν. Ανθρωρός ἐστι ζω̂ον ἐρίρονον φύσΕι, Καὶ ρολλὰ λυρη̂ρ' ὁ βίος ἐν ἑαυτω φέρΕι. Ραραψυχἂς ουν φροντίδων ανΕυρατον Ταυτας. ὁ γὰρ νούς των ἰδίων λήθην λαβὼν Ρρὸς ἀλλοτριω τΕ ψυχαγωγηθηὶς ράθΕι, ΜΕθ' ἡδονη̂ς ἀρη̂λθΕ ραιδΕυθΕὶς ἃμα Τούς γὰρ τραγωιδους ρρω̂τον Εἰ βούλΕι σκόρ;Ει, Ὡς ὠφΕλου̂σί ραντας. ὁ μΕν' γὰρ ὤν ρένης ΡτωχότΕρον ἁυτ῀οὺ καταμαθὼν τὸν ΤήλΕφον ΓΕνόμΕνον, ἥδη την ρΕνίαν ῥâον φέρΕι. Ο νοσω̂ν δὲ μανικω̂ς, Αλκμαίων' ΕσκΕψατο. Οφθαλμιâ τις; Εἰσὶ ΦινΕîδαι τυφλοί. ΤέθνηχΕ τω ραîς ; η Νιόβη κΕκούφικΕ. Χωλός τίς ἐστι, τὸν Φιλοκτήτην ὁρâ. Γέρων τὶς ἀτυχε̂ι; κατέμαθΕ τὸν ΟΙνέα. Αραντα γὰρ τὰ μΕίζον' ἥ ρέρονθέ τις Ατυχήματ' ἄλλοις γΕγονότ' ἐννοούμΕνος, Τὰς ἀυτὸς ἁυτου̂ συμφορὰς ῥâιον φέρΕι. Thus, in the literal version of Dalechampius: Hem amice, nunc ausculta quod dicturus sum tibi. Animal naturâ laboriosum homo est. Tristia vita secum affert plurima: Itaque curarum hœc adinvenit solatia: Mentem enim suorum malorum oblitam, Alienorum casuum reputatio consolatur, Indéque fit ea lœta, et erudita ad sapientiam. Tragicos enim primùm, si libet, considera, Quàm prosint omnibus. Qui eget, Pauperiorem se fuisse Telephum Cùm intelligit, leniùs fert inopiam. Insaniâ qui ægrotat, de Alcmeone is cogitet. Lippus est aliquis, Phinea cœcum is contempletur. Obiit tibi filius, dolorem levabit exemplum Niobes. Claudicat quispiam, Philocteten is respicito. Miser est senex aliquis, in Oeneum is intuetor. Omnia namque graviora quàm patiatur Insortunia quivis animadvertens in aliis cùm deprehenderit, Suas calamitates luget minùs.
+18 The original of the fragment of Diphilus: Τοιου̂το νόμιμόν ἐστὶ βέλτιστ' ΕνθαδΕ Κορίνθίοις, ἵν' ἐαν τιν' ὀψωνουντ' ἀΕὶ Λαμρρω̂ς ὁρωμΕν, του̂τον ἀνακρινΕίν ρόθΕν Ζη̂, καὶ τί ροιω̂ν. κἂν μΕν οὐσίαν Εχη Ης ἁι ρρσοδοι λυουσι τ' ἀναλώματὰ Εâν ἀρὸλαὑΕιν. ἥδΕ του̂τον τὸν βίον. Εαν δ' ὑρὲρ την οὐσίαν δαρανω̂ν τύχηι, ΑρΕîρον ἀυτω̂ του̂το μὴ ροιΕîν ἔτι. Ος ἄν δὲ μή ρΕίθητ', ἐρέβαλον ζημίαν. Εάν δὲ μηδΕ ὁτιου;ν ἔχων ζη̂ ρολυτΕλω̂ς, Τω̂ι δημιωι ραρέδωκαν ἀυτον. ΗράκλΕις. ΟΥκ ἐνδέχΕται γὰρ ζη̂ν ἂνΕυ κακου̂ τινὸς Του̂τον. συνίης ; ἀλλ' ἀναγχαίως ἔχΕι Ηλοροδυτε̂ιν τὰς νύκτας, ἢ τοιχωρυχΕîν, Η τω̂ν ροιουντων ταυ̂τα κοινωνΕιν τισιν. Η συκοφαντΕîν κατ' ἀγορὰν, ἢ μαρτυρε̂ιν ΨΕυδη̂, τοιου̂των ἐκκαθαίρομΕν γΕνος. Ορθω̂ς γΕ νὴ Δί', ἀλλὰ δὴ τί του̂' ἐμοί ; Ορω̂μΕν ὀψωνου̂νθ' ἑχάστης ἡμέρας, ΟΥχι μΕτριως βέλτιστέ σ', ἀλλ' ὑρΕρηφάνως. ΟΥκ ἔστιν ἰχθυηρὸν ὑρὸ σου̂ μΕταλαβε̂ιν. Συνη̂κας ἡμω̂ν Εἰς τὰλάχανα την ρόλιν ΡΕρὶ τω̂ν σΕλινων μαχόμΕθ' ὥσρΕρ Ισθμίοις. Λαγώς τις ΕἰσΕλὴλυθ'. Ευθὺς ἥρρακας. Ρέρδικα δ' ἢ κιχλην ; χαὶ νὴ Δί' οὐκ ἔτι Εστιν δἰ ὑμâς οὖδὲ ρΕτομΕνην ἰδΕîν, Τὸν ξΕνικὸν οἶνον ἐριτΕτίμηκας ρολύ. Thus in the version of Dalechampius: A.    Talis istic lex est, ô vir optime, Corinthiis: si quem obsonantem semper Splendidiùs aspexerint, illum ut interrogent Unde vivat, quidnam agat: quòd si facultates illi sunt Quarum ad eum sumptum reditus sufficiat, Eo vitœ luxu permittunt frui: Sin amplius impendat quàm pro re sua, Ne id parrò faciat interdicitur. Si non pareat, mulctâ quidem plectitur. Si sumptuosè vivit qui nihil prorsus habet, Traditur puniendus carnifici. B. Proh Hercules. A.    Quod enim scias, fieri minimè potest Ut qui eo est ingenio, non vivat improbè: itaque necessum Vel noctu grassantem obvios spoliare, vel effractarium, parietem suffodere, Vel his se furibus adjungere socium, Aut delatorem et quadruplatorem esse in foro: aut falsum Testari: à talium bominum genere purgatur civitas. B.    Rectè, per Jovem: sed ad me quid hoc attinet? A.    Nos te videmus obsonantem quotidie Haud mediocriter, vir optime, sed fastuosè, et magnificè, Ne pisciculum quidem habere licet caussâ tuâ: Cives nostros commisisti, pugnaturos de oleribus: De apio dimicamus tanquam in Isthmiis. Si lepus accessit, eum extemplo rapis. Perdicem, ac turdum ne volantem quidem Propter vos, ita me Juppiter amet, nobis jam videre licet, Peregrini multùm auxistis vini pretium.
+19 It is to be regretted that Mr Cumberland had not either published the original fragments along with his translations, or given special references to the authors from whom he took them, and the particular part of their works where they were to be found. The reader who wishes to compare the translations with the originals, will have some trouble in searching for them at random in the works of Athenæus, Clemens Alexandrinus, Stobæus, and others.
+20 “Quand il s'agit de représenter dans une autre langue les choses, les pensées, les expressions, les tours, les tons d'un ouvrage; les choses telles qu'elles sont, sans rien ajouter, ni retrancher, ni déplacer; les pensées dans leurs couleurs, Ieurs degrés, leurs nuances; les tours, qui donnent le feu, l'esprit, et la vie au discours; les expressions naturelles, figurées, fortes, riches, gracieuses, délicates, &c. le tout d'après un modele qui commande durement, et qui veut qu'on lui obéisse d'un air aisé; il faut, sinon autant de génie, du moins autant de gout pour bien traduire, que pour composer. Peutétre même en faut il davantage. L'auteur qui compose, conduit seulement par une sorte d'instinct toujours libre, et par sa matiere qui lui présente des idées, qu'il peut accepter ou rejetter à son gré, est maitre absolu de ses pensées et de ses expressions: si la pensée ne lui convient pas, ou si l'expression ne convient pas à la pensée, il peut rejetter l'une et l'autre; quœ desperat tractata nitescer[illeg.] posse, relinquit. Le traducteur n'est maitre de rien; il est obligé de suivre partout son auteur, et de se plier à toutes sea variations avec une souplesse infinie. Qu'on en juge par la varieté des tons qui se trouvent nécessairement dans un même sujet, et à plus forte raison dans un même genre.—Quelle idée donc ne doit-on pas avoir d'une traduction faite avec succès? Batteux de la construction Oratcire, Par. 2.
+21 TN. T Τι του̂το; ραιΕις ω Τιμων ; μαρτυρομαι. ω ΗρακλΕις. ιου, ιου. Ρροκαλου̂μαι σΕ τραυματος Εις ΑρΕιον ραγον. Τιμ. Και μΕν αν γΕ μακρον Εχιβραδυνης, φονον ταχα ρροκΕκληση μΕ. Lucian, Timon.
+22 Και ὅλως ρανσοφον τι χρημα, και ρανταχοθΕν ακριβΕς, και ροικιλως ΕντΕλΕς. οιμωξΕται τοιγαρου̂ν ουκ Εις μακραν χρηστος ων. Lucian, Timon.
+23 Αντι του τΕως Ρυρριου, η Δρομωνς, ηΤιβιου, ΜΕγακλης, ΜΕγαβυζος, η Ρρωταρχος μΕτονομασθΕις, τους ματην κΕχηνοτας ΕκΕινους Εις αλληλους αροβλΕροντας καταλιρων, &c. Lucian, Timon
+24          Otium divos rogat in patenti    Prensus Ægeo, simul atra nubes    Condidit Lunam, neque certa fulgent Sidera nautis.    Otium bello furiosa Thrace,    Otium Medi pharetrâ decori,    Grosphe, non gemmis, neque purpurâ venale, nec auro.    Non enim gazæ, neque Consularis    Summovet lictor miseros tumultus    Mentis, et curas laqueata circum Tecta volantes.    Vivitur parvo bene, cui paternum    Splendet in mensâ tenui salinum:    Nec leves somnos Timor aut Cupido Sordidus aufert.    Quid brevi fortes jaculamur ævo    Multa? quid terras alio calentes    Sole mutamus? Patriæ quis exul, Se quoque fugit?    Scandit æratas vitiosa naves    Cura, nec turmas equitum relinquit,    Ocyor cervis, et agente nimbos Ocyor Euro.    Lætus in præsens animus, quod ultra est    Oderit curare; et amara lento    Temperat risu. Nihil est ab omni Parte beatum.    Abstulit clarum cita mors Achillem:    Longa Tithonum minuit senectus:    Et mihi forsan, tibi quod negârit, Porriget hora.    Te greges centum, Siculæque circum    Mugiunt vaccæ: tibi tollit hinnitum    Apta quadrigis equa: te bis Afro Murice tinctæ    Vestiunt lanæ: mihi parva rura, et    Spiritum Graiæ tenuem Camœnæ    Parca non mendax dedit, et malignum Spernere vulgus. Hor. Od. 2. 16.
+25 The modern air of the following sentence is, however, not displeasing: Antipho asks Cherea, where he has bespoke supper; he answers, Apud libertum Discum, “At Discus the freedman's.” Eachard, with a happy familiarity, says, “At old Harry Platter's. Ter. Eun. act 3. sc. 5.
+26 Alluding to the French Admiral's ship, called Le Soleil Royal, beaten and disabled by Russell.
+27 The translation published by Motteux bears, in the title-page, that it is the work of several hands; but as of these Mr Motteux was the principal, and revised and corrected the parts that were translated by others, which indeed we have no means of discriminating from his own, I shall, in the following comparison, speak of him as the author of the whole work.
+28 The only French translation of Don Quixote I have ever seen, is that to which is subjoined a continuation of the Knight's adventures, in two supplemental volumes, by Le Sage. This translation has undergone numberless editions, and is therefore, I presume, the best; perhaps indeed the only one, except a very old version, which is mentioned in the preface, as being quite literal, and very antiquated in its style. It is therefore to be presumed, that when Jarvis accuses Motteux of having taken his version entirely from the French, he refers to that translation above mentioned to which Le Sage has given a supplement. If this be the case, we may confidently affirm, that Jarvis has done Motteux the greatest injustice. On comparing his translation with the French, there is a discrepancy so absolute and universal, that there does not arise the smallest suspicion that he had ever seen that version. Let any passage be compared ad aperturam libri; as, for example, the following: “De simples huttes tenoient lieu de maisons, et de palais aux habitants de la terre; les arbres se defaisant d'eux-memes de leurs écorces, leur fournissoient de quoi couvrir leurs cabanes, et se garantir de l'intempérie des saisons.” “The tough and strenuous cork-trees did of themselves, and without other art than their native liberality, dismiss and impart their broad, light bark, which served to cover those lowly huts, propped up with rough-hewn stakes, that were first built as a shelter against the inclemencies of the air.” Motteux. “La beaute n'étoit point un avantage dangereux aux jeunes filles; elles alloient librement partout, etalant sans artifice et sans dessein tous les présents que leur avoit fait la Nature, sans se cacher advantage, qu' autant que l'honnêteté commune à tous les siecles l'a toujours demandé.” “Then was the time, when innocent beautiful young shepherdesses went tripping over the hills and vales, their lovely hair sometimes plaited, sometimes loose and flowing, clad in no other vestment but what was necessary to cover decently what modesty would always have concealed.” Motteux. It will not, I believe, be asserted that this version of Motteux bears any traces of being copied from the French, which is quite licentious and paraphrastical. But when we subjoin the original, we shall perceive, that he has given a very just and easy translation of the Spanish. Los valientes alcornoques despedian de si, sin otro artisicio que el de su cortesia, sus anchas y livianas cortezas, sin que se commençaron á cubrir las casas, sobre rusticas estacas sustentadas, no mas que para defensa de las inclemencias del cielo. Entonces si, que andaban las simples y hermosas zagalejas de valle en valle, y de otero en otero, en trenza y en cabello, sin mas vestidos de aquellos que eran menester para cubrir honestamente lo que la honestidad quiere.
+29 Perhaps a parody was here intended of the famous epitaph of Simonides, on the brave Spartans who fell at Thermopylæ: Ω ξΕιν, αγγΕιλον ΛακΕδαιμονιοις, οτι τηδΕ ΚΕιμΕθα τοις κΕινων ρημασι ρΕιθομΕνοι. “O stranger, carry back the news to Lacedemon, that we died here to prove our obedience to her laws.” This, it will be observed, may be translated, or at least closely imitated, in the very words of Cervantes; diras—que su caballero murió por acometer cosas que le hiciesen digno de poder llamarse suyo.
+30 One expression is omitted which is a little too gross.
+31 Mas ligera que un alcotan is more literally translated by Smollet than by Motteux; but if Smollet piqued himself on fidelity, why was Cordobes o Mexicano omitted?
+32 Smollet has here mistaken the sense of the original, como si ellos tuvieran la culpa del maleficio: She did not blame the hair for being guilty of the transgression or offence, but for being the cause of the Moor's transgression, or, as Motteux has properly translated it, “this affront.” In another part of the same chapter, Smollet has likewise mistaken the sense of the original. When the boy remarks, that the Moors don't observe much form or ceremony in their judicial trials, Don Quixote contradicts him, and tells him there must always be a regular process and examination of evidence to prove matters of fact, “para sacar una verdad en limpio, menester son muchas pruebas y repruebas.” Smollet applies this observation of the Knight to the boy's long-winded story, and translates the passage, “There is not so much proof and counter proof required to bring truth to light.” In both these passages Smollet has departed from his prototype, Jarvis.
+33 To be, or not to be, that is the question:— Whether 'tis better in the mind to suffer The slings and arrows of outrageous fortune; Or to take arms against a sea of troubles, And by opposing end them? To die;—to sleep; No more?—And by a sleep, to say we end The heart-ache, and the thousand natural shocks That flesh is heir to;—'tis a consummation Devoutly to be wish'd. To die;—to sleep;— To sleep! perchance to dream;—ay, there's the rub; For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause: There's the respect, That makes calamity of so long life: For who would bear the whips and scorns of time, The oppressor's wrong, the proud man's contumely, The pangs of despised love, the law's delay, The insolence of office, and the spurns, That patient merit of the unworthy takes, When he himself might his quietus make With a bare bodkin? who would fardels bear, To groan and sweat under a weary life; But that the dread of something after death— That undiscover'd country, from whose bourn No traveller returns—puzzles the will; And makes us rather bear those ills we have Than fly to others we know not of? Thus conscience does make cowards of us all, &c. Hamlet, act 3.sc.1.
+34 Other ideas superadded by the translator, are, Que suis je---Qui m'arrête?— On nous menace, on dit que cette courte vie, &c. ---Affreuse éternité, Tout cœur à ton seul nom se glace epouvanté--- A des amis ingrats qui detournent la vue---
+35 Pour faire connoitre l' esprit de ce poëme, unique en son genre, il faut retrancher les trois quarts de tout passage qu'on veut traduire; car ce Butler ne finit jamais. J'ai donc réduit à environ quatre-vingt vers les quatre cent premiers vers d'Hudibras, pour éviter la prolixité. Mel. Philos. par Voltaire, Oeuv. tom. 15.
+$$$
